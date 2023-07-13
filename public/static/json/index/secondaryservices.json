@@ -1,0 +1,53 @@
+{
+  "Services": [
+    {
+      "Service": "Pressure Washing",
+      "Anchor": "pressure-washing",
+      "Header": "Restore your property's shine!",
+      "Body": "Experience the transformative power of our pressure washing service. Blast away stubborn dirt and grime to reveal a property that's cleaner, brighter, and more inviting.",
+      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/d29a_a_man_using_a_hose_to_clean_a_sidewalk.webp",
+      "AltText": "Pressure washing service in Southwest Houston"
+    },
+    {
+      "Service": "Soft Washing",
+      "Anchor": "soft-washing",
+      "Header": "Gentle yet effective cleaning!",
+      "Body": "Unleash the gentle touch of our soft washing service. Perfect for delicate surfaces, it delivers a deep clean without the risk of damage, leaving your property fresh and sparkling.",
+      "ImageUrl": "https://image.shutterstock.com/display_pic_with_logo/300785485/1939394392/stock-photo-professional-mixed-race-janitors-in-uniform-doing-spring-cleaning-of-modern-house-team-of-cleaners-1939394392.jpg",
+      "AltText": "Soft washing service in Southwest Houston"
+    },
+    {
+      "Service": "Roof Cleaning",
+      "Anchor": "roof-cleaning",
+      "Header": "Uncover your roof's true beauty!",
+      "Body": "Rediscover the beauty of your roof with our expert cleaning service. Remove unsightly dirt, moss, and algae to reveal a roof that's not just clean, but a joy to behold.",
+      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/4afb_a_roof_with_a_metal_roofing_system.webp",
+      "AltText": "Roof cleaning service in Southwest Houston"
+    },
+    {
+      "Service": "Gutter Cleaning",
+      "Anchor": "gutter-cleaning",
+      "Header": "Ensure smooth water flow!",
+      "Body": "Protect your property with our professional gutter cleaning service. By ensuring smooth water flow, we help prevent water damage and keep your property in top condition.",
+      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/886f_a_roof_that_has_been_guted_and_guted.webp",
+      "AltText": "Gutter cleaning service in Southwest Houston"
+    },
+    {
+      "Service": "Commercial Cleaning",
+      "Anchor": "commercial-cleaning",
+      "Header": "Create a clean, professional image!",
+      "Body": "Impress your customers and employees alike with our commercial cleaning service. Maintain a clean, professional image that reflects the quality of your business.",
+      "ImageUrl": "https://image.shutterstock.com/display_pic_with_logo/301539971/368560784/stock-photo-cleaning-service-with-professional-equipment-during-work-368560784.jpg",
+      "AltText": "Commercial cleaning service in Southwest Houston"
+    },
+    {
+      "Service": "Parking Lot Striping",
+      "Anchor": "parking-lot-striping",
+      "Header": "Enhance your parking lot's safety and appearance!",
+      "Body": "Make your parking lot a safer and more attractive place with our striping service. Improve navigation, maximize space, and enhance the overall user experience.",
+      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/7883_a_parking_lot_with_a_blue_and_white_sign.webp",
+      "AltText": "Parking lot striping service in Southwest Houston"
+    }
+  ],
+  "CTA": "Clean my property!"
+}

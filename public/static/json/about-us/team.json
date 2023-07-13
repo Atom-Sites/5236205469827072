@@ -1,0 +1,13 @@
+{
+  "Header": "Meet Our Team",
+  "Body": "Our team at Power Pressure Wash is led by experienced professionals who are committed to providing excellent service. With over 14 years in the business, we have the expertise to ensure the highest quality of work. We take pride in our attention to detail and commitment to customer satisfaction. Our team, including Roosevelt Lee, works tirelessly to meet your pressure washing needs.",
+  "People": [
+    {
+      "Person": {
+        "ImageURL": "https://image.shutterstock.com/display_pic_with_logo/301539971/738242395/stock-photo-portrait-of-a-mature-businessman-wearing-glasses-on-grey-background-happy-senior-latin-man-looking-738242395.jpg",
+        "Name": "Roosevelt Lee",
+        "Role": "Team Member"
+      }
+    }
+  ]
+}

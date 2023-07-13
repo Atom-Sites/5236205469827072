@@ -1,0 +1,56 @@
+{
+  "Services": [
+    {
+      "Tagline": "Pressure Washing",
+      "Header": "Restore your property's charm with our pressure washing!",
+      "Body": "Our pressure washing service is designed to remove the toughest dirt and grime from your property. We use high-pressure water spray to clean surfaces thoroughly, making your property look as good as new. Don't let dirt and grime tarnish your property's appearance. Let us restore its charm!",
+      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/d29a_a_man_using_a_hose_to_clean_a_sidewalk.webp",
+      "AltText": "Pressure washing service in action at Power Pressure Wash in Missouri City, TX",
+      "CTA": "Clean my property!",
+      "Features": [
+        {
+          "Icon": "fa-solid fa-thumbs-up",
+          "name": "High-pressure Cleaning",
+          "description": "Our high-pressure cleaning technique effectively removes dirt and grime from surfaces."
+        },
+        {
+          "Icon": "fa-solid fa-sparkles",
+          "name": "Restored Appearance",
+          "description": "Our pressure washing service restores the original appearance of your property."
+        },
+        {
+          "Icon": "fa-solid fa-house-heart",
+          "name": "Property Value Enhancement",
+          "description": "By maintaining cleanliness, we help enhance the value of your property."
+        }
+      ],
+      "Anchor": "pressure-washing"
+    },
+    {
+      "Tagline": "Roof Cleaning",
+      "Header": "Uncover your roof's true beauty with our cleaning service!",
+      "Body": "Our roof cleaning service is designed to remove debris, moss, and algae that can damage your roof over time. We use safe and effective methods to clean your roof without causing any damage. Uncover the true beauty of your roof with our cleaning service!",
+      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/4afb_a_roof_with_a_metal_roofing_system.webp",
+      "AltText": "Roof cleaning service in action at Power Pressure Wash in Missouri City, TX",
+      "CTA": "Clean my roof!",
+      "Features": [
+        {
+          "Icon": "fa-solid fa-thumbs-up",
+          "name": "Debris Removal",
+          "description": "Our roof cleaning service effectively removes debris, moss, and algae from your roof."
+        },
+        {
+          "Icon": "fa-solid fa-sparkles",
+          "name": "Roof Restoration",
+          "description": "Our cleaning service restores the original appearance of your roof."
+        },
+        {
+          "Icon": "fa-solid fa-house-heart",
+          "name": "Roof Longevity",
+          "description": "By maintaining cleanliness, we help enhance the longevity of your roof."
+        }
+      ],
+      "Anchor": "roof-cleaning"
+    }
+  ]
+}

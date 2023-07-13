@@ -1,0 +1,31 @@
+{
+  "Tagline": "Reviews",
+  "Header": "Discover what our satisfied customers have to say about our pressure washing services.",
+  "testimonials": [
+    {
+      "body": "Owner\u2019s son came to do the job. He did a great job. Was very polite and responsive.",
+      "author": {
+        "name": "Vinay Shah",
+        "source": "Google",
+        "icon": "/images/google-badge.svg"
+      }
+    },
+    {
+      "body": "Did a great job! Very friendly. I would highly recommend.",
+      "author": {
+        "name": "Donna Davis",
+        "source": "Nicejob",
+        "icon": "/images/nicejob-badge.svg"
+      }
+    },
+    {
+      "body": "Absolutely! Beautiful job and very professional!",
+      "author": {
+        "name": "Susan Schatz",
+        "source": "Facebook",
+        "icon": "/images/facebook-badge.svg"
+      }
+    }
+  ],
+  "CTA": "Read more reviews"
+}

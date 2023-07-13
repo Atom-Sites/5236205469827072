@@ -1,0 +1,30 @@
+{
+  "altText": "Power Pressure Wash",
+  "buttonText": "Book Now",
+  "services": [
+    {
+      "serviceName": "Pressure Washing",
+      "serviceAnchor": "pressure-washing"
+    },
+    {
+      "serviceName": "Soft Washing",
+      "serviceAnchor": "soft-washing"
+    },
+    {
+      "serviceName": "Roof Cleaning",
+      "serviceAnchor": "roof-cleaning"
+    },
+    {
+      "serviceName": "Gutter Cleaning",
+      "serviceAnchor": "gutter-cleaning"
+    },
+    {
+      "serviceName": "Commercial Cleaning",
+      "serviceAnchor": "commercial-cleaning"
+    },
+    {
+      "serviceName": "Parking Lot Striping",
+      "serviceAnchor": "parking-lot-striping"
+    }
+  ]
+}

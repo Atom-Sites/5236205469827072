@@ -1,0 +1,15 @@
+{
+  "Header": "Professional and Efficient",
+  "Icon": "fa-solid fa-star",
+  "Reviews": [
+    {
+      "Body": "Excellent service; driveway & patio look brand new! Very responsive to customer inquiries & received same day response + service. The young man who performed the work was very polite & performed the job efficiently; what took me six hours with my mini-washer he had done in a little over an hour and it looks so much better! Proper equipment works wonders. Power Pressure Wash is highly recommended & we will use them again in the future.",
+      "Author": {
+        "Name": "Adam Sarrazine",
+        "Source": "google",
+        "Icon": "/images/google-badge.svg"
+      }
+    }
+  ],
+  "CTA": "Read more reviews"
+}

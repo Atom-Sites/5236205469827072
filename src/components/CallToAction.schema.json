@@ -1,0 +1,34 @@
+{
+  "Header": {
+    "value": "Quisquam, quod?",
+    "description": "The title of the call to action page",
+    "AI": true,
+    "instructions": "Act as a marketing strategist. Craft an attention-grabbing header for the call-to-action section. Use no more than 6 words. Incorporate questions starting with persuasive language to entice potential customers to act. Ensure it's eye-catching and motivates readers to click or engage with your call to action. Write in a sentence-case format. /n Example: /n Want to [experience benefit]? /n Ready to [achieve benefit] today?"
+  },
+  "Body": {
+    "value": "We are here to help you with any questions you may have.",
+    "description": "The call to action of the call to action page",
+    "AI": true,
+    "instructions": "Act as a marketing strategist focused on lead generation. Write an attention-grabbing very short paragraph to promote the services. Do not use the same keyword twice."
+  },
+  "imageUrl": {
+    "description": "The image of the call to action page",
+    "value": "/images/home-office-cleaning-hero.jpg",
+    "AI": true,
+    "instructions": "Act as a content creator. Find an image about our service benefit that would grab the viewer's attention and encourage them to take action. Make sure that the image is high quality, clear, and vibrant. Additionally, ensure it is visually representative of the product or service and contextually appropriate for the surrounding content. Provide a URL to your selected image for the call to action section."
+  },
+  "AltText": {
+    "description": "The image alt text.",
+    "value": "Lorem ipsum dolor set.",
+    "AI": true,
+    "instructions": "Ensure that the alternative text for the image provides a succinct, yet equivalent alternative to the content and function of the image. Describe the image thoroughly, highlighting any special features or details that make the service unique. Use keywords for the service and include the main location."
+  },
+  "CTA": {
+    "value": "Lorem ipsum!",
+    "description": "The text of the button of the call to action section.",
+    "AI": true,
+    "instructions": "Write a small call-to-action text related to the service for the button. Use 3-4 words max. Use first-person singular pronouns. \n Example to follow:\n Clean up my yard! \n Maximize my savings \n Make my windows shine! \n Free my space!"
+  }
+}
+
+

@@ -1,0 +1,25 @@
+
+:root {
+	--primary-50: #ECEEF9;
+	--primary-100: #D9DDF2;
+	--primary-200: #B2BAE6;
+	--primary-300: #8C98D9;
+	--primary-400: #6675CC;
+	--primary-500: #3F52BF;
+	--primary-600: #334299;
+	--primary-700: #263273;
+	--primary-800: #19214D;
+	--primary-900: #0D1126;
+	--primary-950: #060813;
+	--secondary-50: #ECF7F9;
+	--secondary-100: #D9EFF2;
+	--secondary-200: #B2DFE6;
+	--secondary-300: #8CCFD9;
+	--secondary-400: #66BFCC;
+	--secondary-500: #3FADBF;
+	--secondary-600: #338C99;
+	--secondary-700: #266973;
+	--secondary-800: #19464D;
+	--secondary-900: #0D2326;
+	--secondary-950: #061113;
+--ff-display: "Oxygen";--ff-text: "Inter";}

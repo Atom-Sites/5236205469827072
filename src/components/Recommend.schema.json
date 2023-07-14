@@ -1,0 +1,23 @@
+{
+    "Icon": {
+        "value": "fa-solid fa-heart",
+        "description": "Icon for the guarantee section.",
+        "AI": true,
+        "instructions": "The icon should be a Font Awesome icon. Class name such as fa-solid fa-shield-check, fa-solid fa-shield, fa-solid fa-shield-heart, or fa-solid fa-shield-halved. Find an icon that matches the guarantee. Do not repeat icons."
+    },
+    "Header": {
+        "value": "Recommend your experience!",
+        "description": "The header text for the section.",
+        "AI": false
+    },
+    "Body": {
+        "value": "Tell your family and friends about us after experiencing our fantastic work firsthand. We rely on word-of-mouth advertising to grow our business and are always happy to help.",
+        "description": "The body text for the section.",
+        "AI": false
+    },
+    "CTA": {
+        "value": "Recommend us!",
+        "description": "CTA Text",
+        "AI": false
+    }
+}

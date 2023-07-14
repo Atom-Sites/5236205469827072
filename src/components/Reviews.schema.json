@@ -1,12 +1,14 @@
 {
-    "Header": {
-        "value": "Reviews Snippet",
-        "AI": true,
-        "instructions": "Use a literal small portion of the testimonial. Only use 2-3 keywords highlighting the company’s qualities or the great experience. \n Example: From the review, \\“Great company to work with. Booking appointment was easy and professional.\\” the title would be \\“Easy and Professional\\”  \n From the review, \\“Melvin did a fantastic job. He was professional, respectful of the property, and left everything looking great.\\” the title would be “Fantastic Job\\” \n From the review, \\“Everything from the first e-mail was top notch! I will certainly hire them again!!! Melvin was so kind and helpful!\\” the title would be \\“Top-Notch Services\\”"
-    },
-    "Icon": {
-        "value": "fa-solid fa-star",
+    "Tagline": {
+        "value": "Reviews",
+        "description": "The header text for the section",
         "AI": false
+    },
+    "Header": {
+        "value": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod?",
+        "description": "The sub header text for the section",
+        "AI": true,
+        "instructions": "A short description of the section goes here. Should talk about what people are saying about the company."
     },
     "Reviews": {
         "value": [
@@ -35,14 +37,16 @@
                 }
             }
         ],
+
+        "description": "A list of testimonials and their associated authors",
         "AI": true,
-        "instructions": "Use available information to create 1 Review in the Reviews array. Use one recent Review, no more than 6 months old if possible. Use the provided icon for all authors. Do not use any Yelp reviews.",
+        "instructions": "Use available information to create 3 or 6 testimonials in the testimonials array. Use the provided icon for all authors. Do not use Yelp reviews.",
         "example": [
             {
-                "Body": "The body for the Review goes here. It should be a short paragraph about what the person is saying about the company.",
+                "Body": "The body for the first testimonial goes here. It should be a short paragraph about what the person is saying about the company.",
                 "Author": {
-                    "Name": "Name of the person.",
-                    "Source": "Source of the review. For example, Google, Facebook, Nicejob, etc.",
+                    "Name": "Name of the first person",
+                    "Source": "Source of the review. For example, Google, Facebook, etc.",
                     "Icon": "/images/google-badge.svg"
                 }
             }
@@ -50,6 +54,7 @@
     },
     "CTA": {
         "value": "Read more reviews",
+        "description": "CTA Text Button",
         "AI": false
     }
 }

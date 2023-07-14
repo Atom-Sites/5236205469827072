@@ -7,8 +7,8 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import { Fragment, useState } from 'react'
 
 export default function Nav(props) {
-    const { buttonText, altText, services, phone, company } = props
-    const { logoUrl } = company
+    const { AltText, Services, phone, company, CTA } = props
+    const { logoUrl, company_name } = company
 
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
@@ -21,7 +21,7 @@ export default function Nav(props) {
                         <img
                             className="w={275} h-16 w-auto lg:h-20"
                             src={logoUrl}
-                            alt={altText}
+                            alt={company_name}
                             width={275}
                             height={100}
                         />
@@ -32,7 +32,7 @@ export default function Nav(props) {
                 <div className="flex lg:hidden">
                     <div className="hidden items-center sm:flex">
                         <a className="nj-lead font-heading focus-visible:transparent rounded-2xl bg-primary-700 px-4 py-3 text-base font-bold text-white shadow-sm transition-all ease-in hover:bg-primary-600 focus-visible:outline focus-visible:outline-0 focus-visible:outline-offset-2">
-                            {buttonText}
+                            {CTA}
                         </a>
                     </div>
 
@@ -88,9 +88,9 @@ export default function Nav(props) {
                                 {/* Dropdown menu on a larger screen */}
                                 <Popover.Panel className="max-w- absolute -left-8 top-full z-10 mt-12  w-64 overflow-hidden rounded-lg bg-white shadow-lg ring-1 ring-neutral-200">
                                     <div className="p-2">
-                                        {services.map((item, i) => (
+                                        {Services.map((item, i) => (
                                             <div
-                                                key={item.serviceName}
+                                                key={item.Name}
                                                 className="group relative flex items-center gap-x-6 rounded-lg p-3 text-sm leading-6 hover:bg-neutral-100"
                                             >
                                                 {/* Dropdown Items */}
@@ -98,11 +98,11 @@ export default function Nav(props) {
                                                     <Popover.Button
                                                         as={'a'}
                                                         href={`/#${makeId(
-                                                            item.serviceAnchor
+                                                            item.Anchor
                                                         )}`}
                                                         className="block font-semibold text-neutral-800 "
                                                     >
-                                                        {item.serviceName}
+                                                        {item.Name}
                                                         <span className="absolute inset-0" />
                                                     </Popover.Button>
                                                 </div>
@@ -136,7 +136,7 @@ export default function Nav(props) {
                     {/*CTAs on a larger screen*/}
                     <div className="flex items-center">
                         <a className="nj-lead font-heading focus-visible:transparent rounded-2xl bg-primary-700 px-4 py-3.5 text-base font-bold text-white shadow-sm transition-all ease-in hover:bg-primary-600 focus-visible:outline focus-visible:outline-0 focus-visible:outline-offset-2">
-                            {buttonText}
+                            {CTA}
                         </a>
                     </div>
                     <div className="ml-2 flex items-center">
@@ -201,12 +201,12 @@ export default function Nav(props) {
                                                 />
                                             </Disclosure.Button>
                                             <Disclosure.Panel className="mt-2 space-y-2">
-                                                {services.map((item) => (
+                                                {Services.map((item) => (
                                                     <Disclosure.Button
-                                                        key={item.serviceAnchor}
+                                                        key={item.Anchor}
                                                         as="a"
                                                         href={`/#${makeId(
-                                                            item.serviceAnchor
+                                                            item.Anchor
                                                         )}`}
                                                         className="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-neutral-900 hover:bg-neutral-50"
                                                         onClick={() => {
@@ -215,7 +215,7 @@ export default function Nav(props) {
                                                             )
                                                         }}
                                                     >
-                                                        {item.serviceName}
+                                                        {item.Name}
                                                     </Disclosure.Button>
                                                 ))}
                                             </Disclosure.Panel>
@@ -235,7 +235,7 @@ export default function Nav(props) {
                                     Our Work
                                 </a>
                                 <a
-                                    href="/about"
+                                    href="/about-us"
                                     className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-neutral-900 transition-all ease-in hover:bg-neutral-50"
                                 >
                                     About Us

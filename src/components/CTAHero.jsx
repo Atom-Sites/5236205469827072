@@ -1,25 +1,23 @@
-export default function HeroFullBG(props) {
-    const { Header, Body, ImageUrl, AltText, CTA, Anchor } = props
+export default function CTAHero(props) {
+    const { Header, Body, ImageUrl, CTA } = props
 
     if (!ImageUrl) {
         return <div>failed to load</div>
     }
 
     return (
-        <section id={Anchor} className="bg-primary-950">
+        <section className="bg-primary-950">
             <div className="relative isolate overflow-hidden">
+                <div className="absolute inset-0 -z-10 bg-gradient-to-b from-primary-950 via-neutral-900 to-neutral-950 opacity-60"></div>
                 <div
-                    className="absolute inset-0 -z-10 h-full w-full bg-cover bg-fixed bg-center"
+                    className="absolute inset-0 -z-20 h-full w-full bg-cover bg-fixed bg-center"
                     style={{ backgroundImage: `url(${ImageUrl})` }}
                 />
-
-                <div className="absolute inset-0 -z-10 bg-gradient-to-b from-primary-950 via-neutral-900 to-neutral-950 opacity-60"></div>
-
                 <div className="mx-auto min-h-[300px] max-w-4xl px-6 py-32 sm:min-h-[400px] sm:py-48 lg:min-h-[500px] lg:px-0">
                     <div className="text-center">
-                        <h1 className="font-display text-4xl font-semibold tracking-tight text-white md:text-5xl lg:max-w-4xl lg:text-6xl">
+                        <h2 className="font-display text-3xl font-semibold tracking-tight text-white md:text-4xl lg:max-w-4xl lg:text-5xl">
                             {Header}
-                        </h1>
+                        </h2>
                         <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-white">
                             {Body}
                         </p>

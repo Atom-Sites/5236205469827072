@@ -2,25 +2,60 @@
 import { ImgComparisonSlider } from '@img-comparison-slider/react'
 
 export default function BeforeAfter(props) {
-    const { Tagline, Header, Body, BeforeAltText, AfterAltText, imageUrlBefore, imageUrlAfter, CTA,} = props
+    const {
+        Tagline,
+        Header,
+        Body,
+        BeforeAltText,
+        AfterAltText,
+        BeforeImageUrl,
+        AfterImageUrl,
+        CTA,
+    } = props
 
-    if (!Header || !Body || !AfterAltText || !BeforeAltText || !imageUrlBefore || !imageUrlAfter || !CTA
+    if (
+        !Header ||
+        !AfterAltText ||
+        !BeforeAltText ||
+        !BeforeImageUrl ||
+        !AfterImageUrl
     ) {
         return <div>failed to load</div>
     }
 
-return (
-    <section className="editable-component relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:px-8">
-        <div className="mx-auto max-w-7xl">
-            {/*Feature Grid*/}
-            <div className="grid grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:grid-cols-2 lg:items-start">
-                {/*Image*/}
-                <div className="w-full md:px-0">
-                    <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-lg">
-                        <ImgComparisonSlider className="slider-split-line slider-nofocus cursor-grab overflow-hidden rounded-2xl active:cursor-grabbing">
-                                <img slot="first" alt={BeforeAltText} className="object-cover" width="1000" height="1000" src={imageUrlBefore} loading="lazy"/>
-                                <img slot="second" alt={AfterAltText} className="object-cover" width="1000" height="1000" src={imageUrlAfter} loading="lazy"/>
-                                <svg slot="handle" xmlns="http://www.w3.org/2000/svg" width="100" viewBox="-8 -3 16 6">
+    return (
+        <section className="editable-component relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:px-8">
+            <div className="mx-auto max-w-7xl">
+                {/*Feature Grid*/}
+                <div className="grid grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:grid-cols-2 lg:items-start">
+                    {/*Image*/}
+                    <div className="w-full md:px-0">
+                        <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-lg">
+                            <ImgComparisonSlider className="slider-split-line slider-nofocus cursor-grab overflow-hidden rounded-2xl active:cursor-grabbing">
+                                <img
+                                    slot="first"
+                                    alt={BeforeAltText}
+                                    className="object-cover"
+                                    width="1000"
+                                    height="1000"
+                                    src={BeforeImageUrl}
+                                    loading="lazy"
+                                />
+                                <img
+                                    slot="second"
+                                    alt={AfterAltText}
+                                    className="object-cover"
+                                    width="1000"
+                                    height="1000"
+                                    src={AfterImageUrl}
+                                    loading="lazy"
+                                />
+                                <svg
+                                    slot="handle"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    width="100"
+                                    viewBox="-8 -3 16 6"
+                                >
                                     {' '}
                                     <path
                                         stroke="#fff"
@@ -30,12 +65,11 @@ return (
                                         vectorEffect="non-scaling-stroke"
                                     ></path>
                                 </svg>
-                        </ImgComparisonSlider>
+                            </ImgComparisonSlider>
+                        </div>
                     </div>
-                </div>
 
-                {/*Text Copy*/}
-                <div className="px-6 md:px-0">
+                    {/*Text Copy*/}
                     <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-lg">
                         <h2 className="text-base font-bold uppercase leading-7 tracking-wide text-primary-600">
                             {Tagline}
@@ -56,7 +90,6 @@ return (
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-)
+        </section>
+    )
 }

@@ -12,7 +12,7 @@ export default function SatisfactionGuarantee(props) {
         >
             <div className="mx-auto flex max-w-2xl flex-col items-center text-center">
                 <i
-                    className={`${Icon} mx-1 mb-4 text-4xl text-white sm:text-4xl lg:text-6xl`}
+                    className={`${Icon} mx-1 mb-6 text-4xl text-white sm:text-4xl lg:text-6xl`}
                 />
                 <h2 className="font-display text-3xl font-semibold tracking-tight text-white lg:text-4xl">
                     {Header}

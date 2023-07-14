@@ -1,18 +1,21 @@
 export default function CallToAction(props) {
-    const { Header, Body, imageUrl, AltText, CTA } = props
+    const { Header, Body, ImageUrl, AltText, CTA } = props
 
-    if (!Header || !imageUrl || !AltText || !CTA) {
+    if (!Header || !ImageUrl || !AltText || !CTA) {
         return <div>failed to load</div>
     }
 
     return (
         <>
-            <div className="editable-component relative bg-primary-100" data-json="calltoaction" >
+            <div
+                className="editable-component relative bg-primary-100"
+                data-json="calltoaction"
+            >
                 <div className="grid grid-cols-1 items-center md:grid-cols-2 lg:max-h-max">
                     <div className="relative h-full w-full overflow-hidden ">
                         <img
                             className="h-80 w-full object-cover object-[0%_0%] md:absolute md:h-full"
-                            src={imageUrl}
+                            src={ImageUrl}
                             alt={AltText}
                             loading="lazy"
                             width={1000}

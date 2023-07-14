@@ -1,16 +1,15 @@
 {
     "Icon": {
-        "value": "fa-solid shield-check",
+        "value": "fa-solid fa-shield-check",
         "description": "Icon for the guarantee section.",
         "AI": true,
-        "instructions": "The icon should be a Font Awesome icon. Class name such as fa-solid shield-check, fa-solid fa-shield, fa-solid fa-shield-heart, or fa-solid fa-shield-halved. Find an icon that matches the guarantee. Do not repeat icons."
+        "instructions": "The icon should be a Font Awesome icon. Class name such as fa-solid fa-shield-check, fa-solid fa-shield, fa-solid fa-shield-heart, or fa-solid fa-shield-halved. Find an icon that matches the guarantee. Do not repeat icons."
     },
     "Header": {
         "value": "Satisfaction Guarantee",
         "description": "Header text for the satisfaction guarantee section",
         "AI": true,
-        "instructions": "Act as a marketing strategist. Write a compelling header about our satisfaction guarantee section. Your header should clearly state what is the guarantee offered. Limit to 60 characters and use title-case format. /n Example to follow: /n 100% Safisfaction Guarantee /n Happiness Guarantee /n Money-Back Guarantee /n Lifetime Warantee"
-
+        "instructions": "Act as a marketing strategist. Write a compelling header about our satisfaction guarantee section. Your header should clearly state what is the guarantee offered. Limit to 60 characters and use title-case format. \n Example to follow: \n 100% Safisfaction Guarantee \n Happiness Guarantee \n Money-Back Guarantee \n Lifetime Warantee"
     },
     "Body": {
         "value": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.",

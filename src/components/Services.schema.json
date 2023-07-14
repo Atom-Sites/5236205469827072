@@ -11,18 +11,18 @@
                 "Features": [
                     {
                         "Icon": "fa-solid fa-check",
-                        "name": "service 1 feature 1 name",
-                        "description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+                        "Title": "service 1 feature 1 name",
+                        "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
                     },
                     {
                         "Icon": "fa-solid fa-check",
-                        "name": "service 1 feature 2 name",
-                        "description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
+                        "Title": "service 1 feature 2 name",
+                        "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
                     },
                     {
                         "Icon": "fa-solid fa-check",
-                        "name": "service 1 feature 3 name",
-                        "description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
+                        "Title": "service 1 feature 3 name",
+                        "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
                     }
                 ],
                 "Anchor": "service-1"
@@ -37,18 +37,18 @@
                 "Features": [
                     {
                         "Icon": "fa-solid fa-check",
-                        "name": "service 2 feature 1 name",
-                        "description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+                        "Title": "service 2 feature 1 name",
+                        "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
                     },
                     {
                         "Icon": "fa-solid fa-check",
-                        "name": "service 2 feature 2 name",
-                        "description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
+                        "Title": "service 2 feature 2 name",
+                        "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
                     },
                     {
                         "Icon": "fa-solid fa-check",
-                        "name": "service 2 feature 3 name",
-                        "description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
+                        "Title": "service 2 feature 3 name",
+                        "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
                     }
                 ],
                 "Anchor": "service-2"
@@ -63,18 +63,18 @@
                 "Features": [
                     {
                         "Icon": "fa-solid fa-check",
-                        "name": "service 3 feature 1 name",
-                        "description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+                        "Title": "service 3 feature 1 name",
+                        "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
                     },
                     {
                         "Icon": "fa-solid fa-check",
-                        "name": "service 3 feature 2 name",
-                        "description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
+                        "Title": "service 3 feature 2 name",
+                        "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
                     },
                     {
                         "Icon": "fa-solid fa-check",
-                        "name": "service 3 feature 3 name",
-                        "description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
+                        "Title": "service 3 feature 3 name",
+                        "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
                     }
                 ],
                 "Anchor": "service-3"
@@ -89,18 +89,18 @@
                 "Features": [
                     {
                         "Icon": "fa-solid fa-check",
-                        "name": "service 4 feature 1 name",
-                        "description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+                        "Title": "service 4 feature 1 name",
+                        "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
                     },
                     {
                         "Icon": "fa-solid fa-check",
-                        "name": "service 4 feature 2 name",
-                        "description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
+                        "Title": "service 4 feature 2 name",
+                        "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
                     },
                     {
                         "Icon": "fa-solid fa-check",
-                        "name": "service 4 feature 3 name",
-                        "description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
+                        "Title": "service 4 feature 3 name",
+                        "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
                     }
                 ],
                 "Anchor": "service-4"
@@ -114,24 +114,24 @@
                 "Tagline": "Name of the service",
                 "Header": "Act as a marketing strategist. Write an attention-grabbing header to promote the benefit of our service. Use persuasive and targeted language for potential customers to pique their interest. The header should be limited to 60 characters and highlight the positive effects on their homes or businesses. Write in a sentence-case format with no colon or vertical bar. Do not use the same keyword twice. \n Example to follow: \n Sparkle up your property! \n Refresh your view with our experts! \n Experience financial freedom with our accounting services! \n Give your property instant curb appeal! \n Breathe new life into your carpet! \n Unlock your home’s full potential! \n Reveal your roof’s true beauty!",
                 "Body": "Act as a marketing strategist focused on lead generation. Write an attention-grabbing paragraph to promote the service. Use persuasive and targeted language for potential customers. Highlight the positive effects for them. Do not use the same keyword twice.",
-                "ImageUrl": "Act as a content creator. Find an image about our service that would grab the viewer's attention and encourage them to take action. Make sure that the image is high quality, clear, and vibrant. Additionally, ensure it is visually representative of the product or service and contextually appropriate for the surrounding content. Provide a URL to your selected image for the call to action section.",
+                "ImageUrl": "Act as a content creator. Find an image about our service that would grab the viewer's attention and encourage them to take action. Make sure that the image is high quality, clear, and vibrant. Additionally, ensure it is visually representative of the product or service and contextually appropriate for the surrounding content. Provide a URL to your selected image for the call to action section. \n Example of keywords: \n For a residential house cleaning service, search for clean home. \n For a residential window cleaning service, search for window cleaning professional tools. \n For a residential pressure washing service, search for home pressure washing professional tools. \n For a home carpet cleaning service, search home nice carpet floor.",
                 "AltText": "Ensure that the alternative text for the image provides a succinct, yet equivalent alternative to the content and function of the image. Describe the image thoroughly, highlighting any special features or details that make the service unique. Use keywords for the service and include the main location.",
                 "CTA": "Write a small call-to-action text related to the service for the button. Use 3-4 words max. \n Example to follow:\n Clean up my yard! \n Maximize my savings \n Make my windows shine! \n Free my space!",
                 "Features": [
                     {
-                        "Icon": "fa-solid fa-thumbs-up",
-                        "name": "A 1st specific feature of the service",
-                        "description": "A 1 paragraph description of the service"
+                        "Icon": "fa-solid fa-check",
+                        "Title": "A 1st specific feature of the service",
+                        "Description": "A 1 paragraph description of the service"
                     },
                     {
-                        "Icon": "fa-solid fa-sparkles",
-                        "name": "A 2nd specific feature of the service",
-                        "description": "A 1 paragraph description of the service."
+                        "Icon": "fa-solid fa-check",
+                        "Title": "A 2nd specific feature of the service",
+                        "Description": "A 1 paragraph description of the service."
                     },
                     {
-                        "Icon": "fa-solid fa-house-heart",
-                        "name": "A 3rd specific feature of the service",
-                        "description": "A 1 paragraph description of the service."
+                        "Icon": "fa-solid fa-check",
+                        "Title": "A 3rd specific feature of the service",
+                        "Description": "A 1 paragraph description of the service."
                     }
                 ],
                 "Anchor": "name-of-the-service-in-lowercase-with-dashes"

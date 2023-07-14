@@ -1,7 +1,7 @@
 export default function ServiceLocation(props) {
-    const { serviceName, headerText, body } = props
+    const { Tagline, Header, Body } = props
 
-    if (!serviceName || !headerText || !body) {
+    if (!Tagline || !Header || !Body) {
         return <div>failed to load</div>
     }
 
@@ -25,13 +25,13 @@ export default function ServiceLocation(props) {
                     <div className="px-6 md:px-0">
                         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-lg">
                             <h2 className="text-base font-bold uppercase leading-7 tracking-wide text-primary-700">
-                                {serviceName}
+                                {Tagline}
                             </h2>
                             <h2 className="mt-2 text-2xl font-bold tracking-tight text-neutral-800 md:text-3xl lg:text-4xl">
-                                {headerText}
+                                {Header}
                             </h2>
                             <p className="mt-6 text-lg leading-8 text-neutral-800">
-                                {body}
+                                {Body}
                             </p>
                         </div>
                     </div>

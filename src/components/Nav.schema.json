@@ -1,44 +1,37 @@
 {
-    "altText": {
-        "value": "The company name",
-        "description": "The company name",
-        "AI": true,
-        "instructions": "Put the company name"
-    },
-    "buttonText": {
+    "CTA": {
         "value": "Get quote",
         "description": "CTA button text.",
         "AI": true,
-        "instructions": "Use the company's common call to action with 2 simple words that convay the main action. /n Example: /n Get quote /n Get estimate /n Book now /n Schedule now "
+        "instructions": "Use the company's common call to action with 2 simple words that convay the main action. \n Example: \n Get quote \n Get estimate \n Book now \n Schedule now "
     },
-    "services": {
+    "Services": {
         "value": [
             {
-                "serviceName": "Name of the service",
-                "serviceAnchor": "service1"
+                "Name": "Name of the service",
+                "Anchor": "service1"
             },
             {
-                "serviceName": "Name of the service",
-                "serviceAnchor": "service2"
+                "Name": "Name of the service",
+                "Anchor": "service2"
             },
             {
-                "serviceName": "Name of the service",
-                "serviceAnchor": "service3"
+                "Name": "Name of the service",
+                "Anchor": "service3"
             },
             {
-                "serviceName": "Name of the service",
-                "serviceAnchor": "service4"
+                "Name": "Name of the service",
+                "Anchor": "service4"
             }
         ],
         "description": "Details for the services section of the website.",
         "AI": true,
-        "instructions": "Write up to six services in a way that mimics the example schema. Use existing services to inform your output. serviceAnchor should match existing anchors, if available.",
+        "instructions": "Write all services in a way that mimics the example schema. Use existing services to inform your output. Anchor should match existing anchors, if available.",
         "example": [
             {
-                "serviceName": "Name of the service",
-                "serviceAnchor": "service1"
+                "Name": "Name of the service",
+                "Anchor": "service1"
             }
         ]
     }
 }
-

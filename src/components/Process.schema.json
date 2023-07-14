@@ -1,0 +1,65 @@
+{
+    "Tagline": {
+        "value": "Our Process",
+        "description": "Our process tagline",
+        "AI": true,
+        "instructions": "Write 2-3 words process tagline \n Examples of good output: \n Our Process \n What we do \n Easy as 1-2-3"
+    },
+    "Header": {
+        "value": "Header Text",
+        "description": "Header text for the page",
+        "AI": true,
+        "instructions": "Act as a marketing strategist. Write a compelling header about our company process section. Your header should clearly state how our process is easy and how it solves a customer's pain. Use persuasive and appealing language to potential customers to make them want to learn more about your offerings. Limit to 60 characters and use sentence-case format. Do not include the company's name in the title. \n Example to follow: \n Pressure washing has never been so easy! Simplified solutions for your comfort! \n Seamless process for financial peace. \n Easy steps to a sparkling clean exterior! \n Transforming homes with a hassle-free painting process! \n Window cleaning made simple! \n Resolve legal challenges effortlessly!"
+    },
+    "Body": {
+        "value": "Description, about 4 or 5 sentences",
+        "description": "Description of the USP",
+        "AI": true,
+        "instructions": "Act as a marketing strategist. Write a small introduction to our process in about 3 sentences. Write pain points (but don't mention pain points expression) from competitors and how we will solve this. Additionally, consider highlighting any exclusive process our company may provide compared to competitors. It can be about scheduling, booking, task processing, and techniques. Do not use the third person, but use the second-person pronoun. Write short and clear sentences cutting extra words, tightening awkward phrasing, and ensuring the sentence isn’t too long. Avoid the use of the same keywords twice. \n Example to follow: \n Finding a reliable painting company can be a challenge, but we've streamlined our process to make it easy for you. Our simplified booking system eliminates the headache of scheduling, while our skilled team ensures flawless results with our exclusive three-step painting technique. \n Scheduling your grass-cutting service should be a breeze with us. You can book your appointment online or over the phone, and we'll ensure it's tailored to your specific requirements. Our efficient team ensures prompt and efficient completion of your landscaping projects, so you won't have to wait unnecessarily. \n Say goodbye to waiting around for a window cleaner. Our simplified booking process ensures a hassle-free experience. Book your appointment effortlessly online or over the phone, and let our expert team take care of the rest, using innovative techniques that guarantee sparkling windows that enhance your view."
+    },
+    "Steps": {
+        "value": [
+            {
+                "Title": "Step 1",
+                "Icon": "<fa-solid fa-arrow-right",
+                "Description": "feature1 description, about 3 or 4 sentences"
+            },
+            {
+                "Title": "Step 2",
+                "Icon": "fa-solid fa-arrow-right",
+                "Description": "feature2 description, about 3 or 4 sentences"
+            },
+            {
+                "Title": "Step 3",
+                "Icon": "fa-solid fa-arrow-right",
+                "Description": "feature3 description, about 3 or 4 sentences"
+            },
+            {
+                "Title": "Success",
+                "Icon": "fa-solid fa-check",
+                "Description": "feature3 description, about 3 or 4 sentences"
+            }
+        ],
+        "description": "Details for a list of 3 steps to a sucessful process section.",
+        "AI": true,
+        "instructions": "Write exactly three steps in the provided format. Fourth block should be the result. The 'name' should be small, 2-3 word title features. The description should be one-sentence description of the (first, second, or third) step using the client's perspective and second-person pronoun. Do not repeat the same keyword twice in a paragraph. Write concise sentences and avoid wordiness or vagueness. Fix all grammar. Write in an active voice. In a clause written in the active voice, the subject of the clause performs the action. (I saw Mom.) In a clause written in the passive voice, the action is performed upon the subject of the clause. (Mom was seen by me.) The icon should be a Font Awesome icon class name (fa-solid fa-shield). Do not repeat icons.",
+        "example": [
+            {
+                "Title": "Schedule online or by phone",
+                "Description": "Our team is ready to assist you and will provide you with an appointment that fits your specific needs"
+            },
+            {
+                "Title": "Get a SMS reminder",
+                "Description": "A day prior to delivering the service, you'll get a friendly reminder."
+            },
+            {
+                "Title": "Step 3",
+                "Description": "Our cleaning techs will come and clean your windows."
+            },
+            {
+                "Title": "Sparkling results!",
+                "Description": "Enjoy a nice clear view!"
+            }
+        ]
+    }
+}

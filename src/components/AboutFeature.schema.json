@@ -8,7 +8,7 @@
         "value": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod? Laborum quis quam. Dolorum et ut quod quia. Voluptas numquam delectus nihil. Aut enim doloremque et ipsam. Voluptas numquam delectus nihil.",
         "description": "The header text for the section",
         "AI": true,
-        "instructions": "Write an about us section title highlighting the company's best feature. Do not include the company's name in the title. /n Example: /n Personalized Instruction and Exceptional Experience"
+        "instructions": "Write an about us section title highlighting the company's best feature. Do not include the company's name in the title. \n Example: \n Personalized Instruction and Exceptional Experience"
     },
     "Body": {
         "value": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod?",

@@ -24,21 +24,21 @@ export default function USP(props) {
                 {/*USP Grid*/}
                 <div className="mx-auto mt-10 max-w-2xl sm:mt-10 lg:mt-20 lg:max-w-none">
                     <dl className="grid max-w-xl grid-cols-1 gap-x-8 gap-y-8 lg:max-w-none lg:grid-cols-3">
-                        {Features.slice(0, 3).map((feature) => (
-                            <div key={feature.name} className="flex flex-col">
-                                <dt className="text-base leading-7 text-neutral-800">
+                        {Features.slice(0, 3).map((Feature) => (
+                            <div key={Feature.Title} className="flex flex-col">
+                                <dt className="text-base leading-4 text-neutral-800">
                                     <div className="items-bottom justify-left mb-3 flex h-16 w-16 rounded-lg bg-transparent">
                                         <i
-                                            className={`${feature.icon} text-5xl text-secondary-600`}
+                                            className={`${Feature.Icon} text-5xl text-secondary-600`}
                                         />
                                     </div>
-                                    <h3 className="font-display text-lg font-bold">
-                                        {feature.name}
+                                    <h3 className="font-display text-lg font-bold leading-6">
+                                        {Feature.Title}
                                     </h3>
                                 </dt>
                                 <dd className="mt-1 flex flex-auto flex-col text-base leading-7 text-neutral-800">
                                     <p className="flex-auto">
-                                        {feature.description}
+                                        {Feature.Description}
                                     </p>
                                 </dd>
                             </div>

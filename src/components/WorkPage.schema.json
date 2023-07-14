@@ -1,0 +1,18 @@
+{
+    "Header": {
+        "value": "Our Latest Projects",
+        "description": "Main page header.",
+        "AI": false
+    },
+    "Intro": {
+        "value": "Check out some of our newest projects to peek at our capabilities. Our team is committed to providing quality work that meets the highest standards, and our portfolio speaks for itself.",
+        "description": "Small intro paragraph.",
+        "AI": true,
+        "instructions": "Write a small intro paragraph for the latest project gallery page. \n Example to follow:\n Check out some of our newest projects to peek at our capabilities. Our team is committed to providing quality work that meets the highest standards, and our portfolio speaks for itself."
+    },
+    "CTA": {
+        "value": "Get started today!",
+        "description": "CTA Text",
+        "AI": false
+    }
+}

@@ -1,22 +1,14 @@
 'use client'
 import makeId from '@/utils/makeId'
-import { Email } from 'react-obfuscate-email'
+import { Email as EmailComponent } from 'react-obfuscate-email'
 import { formatPhoneNumber } from '../utils/formatPhoneNumber'
 
 export default function Footer(props) {
-    const {
-        Header,
-        email,
-        phone,
-        address,
-        socials,
-        footerText,
-        services,
-        brand,
-    } = props
+    const { Header, Email, Phone, Address, Socials, Body, Services, brand } =
+        props
     const { brand_name, brand_logo, brand_url } = brand
 
-    if (!services) {
+    if (!Services) {
         return <div>failed to load</div>
     }
 
@@ -32,22 +24,20 @@ export default function Footer(props) {
                         <h2 className="font-display text-2xl font-semibold tracking-tight text-white md:text-3xl lg:text-4xl">
                             {Header}
                         </h2>
-                        <p className="max-w-xl leading-7 text-white">
-                            {footerText}
-                        </p>
+                        <p className="max-w-xl leading-7 text-white">{Body}</p>
                         <div className="flex space-x-6">
-                            {socials.map((social) => (
-                                <div key={social.name}>
+                            {Socials.map((Social) => (
+                                <div key={Social.Name}>
                                     <a
-                                        href={social.href}
+                                        href={Social.Link}
                                         className="text-primary-300
                                          transition-all ease-in hover:text-primary-200"
                                     >
                                         <span className="sr-only">
-                                            {social.name}
+                                            {Social.Name}
                                         </span>
                                         <span className="h-6 w-6">
-                                            {iconLookup(social.name)}
+                                            {iconLookup(Social.Name)}
                                         </span>
                                     </a>
                                 </div>
@@ -66,15 +56,15 @@ export default function Footer(props) {
                                     Our Services
                                 </h3>
                                 <ul className="mt-6 space-y-4">
-                                    {services.map((service) => (
-                                        <li key={service.anchor} className="">
+                                    {Services.map((service) => (
+                                        <li key={service.Anchor} className="">
                                             <a
                                                 className="text-sm leading-6  text-white opacity-70 transition-all ease-in hover:opacity-100"
                                                 href={`/#${makeId(
-                                                    service.anchor
+                                                    service.Anchor
                                                 )}`}
                                             >
-                                                {service.name}
+                                                {service.Name}
                                             </a>
                                         </li>
                                     ))}
@@ -85,7 +75,7 @@ export default function Footer(props) {
                         <div className="md:grid md:grid-cols-2 md:gap-8">
                             <div className=" mt-6 md:mt-0">
                                 <h3 className="font-display text-base font-semibold leading-6 text-white">
-                                    Who We Are
+                                    Learn More
                                 </h3>
                                 <ul className="mt-6 space-y-4">
                                     <li className="">
@@ -131,25 +121,25 @@ export default function Footer(props) {
                                     <ul className="mt-6 space-y-4">
                                         <li className="">
                                             <p className="text-sm leading-6  text-white opacity-70 transition-all ease-in hover:opacity-100">
-                                                <Email
+                                                <EmailComponent
                                                     subject="Website Inquiry"
-                                                    email={email}
+                                                    email={Email}
                                                 >
                                                     Email Us
-                                                </Email>
+                                                </EmailComponent>
                                             </p>
                                         </li>
                                         <li className="">
                                             <a
                                                 className="text-sm leading-6  text-white opacity-70 transition-all ease-in hover:opacity-100"
-                                                href={`tel:${phone}`}
+                                                href={`tel:${Phone}`}
                                             >
-                                                {formatPhoneNumber(phone)}
+                                                {formatPhoneNumber(Phone)}
                                             </a>
                                         </li>
                                         <li className="">
                                             <div className="text-sm leading-6 text-white opacity-70 transition-all ease-in">
-                                                {address}
+                                                {Address}
                                             </div>
                                         </li>
                                     </ul>

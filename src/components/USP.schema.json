@@ -14,22 +14,19 @@
     "Features": {
         "value": [
             {
-                "name": "feature1",
-                "description": "feature1 description, about 4 or 5 sentences",
-                "href": "#",
-                "icon": "fa-solid fa-1"
+                "Icon": "fa-solid fa-1",
+                "Title": "feature1",
+                "Description": "feature1 description, about 4 or 5 sentences"
             },
             {
-                "name": "feature2",
-                "description": "feature2 description, about 4 or 5 sentences",
-                "href": "#",
-                "icon": "fa-solid fa-2"
+                "Icon": "fa-solid fa-2",
+                "Title": "feature2",
+                "Description": "feature2 description, about 4 or 5 sentences"
             },
             {
-                "name": "feature3",
-                "description": "feature3 description, about 4 or 5 sentences",
-                "href": "#",
-                "icon": "fa-solid fa-3"
+                "Icon": "fa-solid fa-3",
+                "Title": "feature3",
+                "Description": "feature3 description, about 4 or 5 sentences"
             }
         ],
         "description": "Details for a list of features for a USP section.",
@@ -37,22 +34,19 @@
         "instructions": "Write exactly three features in the provided format. The 'name' should be small, 2-3 word title features. The description should be one-sentence description of the (first, second, or third) feature using the client's perspective and second-person pronoun. Highlight how the feature is a persuasive benefit. Do not repeat the same keyword twice in a paragraph. Write concise sentences and avoid wordiness or vagueness. Fix all grammar. Write in an active voice. In a clause written in the active voice, the subject of the clause performs the action. (I saw Mom.) In a clause written in the passive voice, the action is performed upon the subject of the clause. (Mom was seen by me.) The icon should be a Font Awesome icon class name (fa-solid fa-shield). Do not repeat icons.",
         "example": [
             {
-                "name": "20+ Years of Experience",
-                "description": "You can count on us with our proven reliability, trustworthiness, and detail-oriented approach to meet and exceed your expectations.",
-                "href": "A link to additional information. If no link is available, leave as '#'",
-                "icon": "fa-solid fa-award"
+                "Icon": "fa-solid fa-award",
+                "Title": "20+ Years of Experience",
+                "Description": "You can count on us with our proven reliability, trustworthiness, and detail-oriented approach to meet and exceed your expectations."
             },
             {
-                "name": "Reliable & Professional",
-                "description": "Experience peace of mind with our unwavering commitment to customer satisfaction as we go above and beyond to ensure your happiness.",
-                "href": "A link to additional information. If no link is available, leave as '#'",
-                "icon": "fa-solid fa-bade-check"
+                "Icon": "fa-solid fa-badge-check",
+                "Title": "Reliable & Professional",
+                "Description": "Experience peace of mind with our unwavering commitment to customer satisfaction as we go above and beyond to ensure your happiness."
             },
             {
-                "name": "Fair & Affordable Pricing",
-                "description": "You'll get top-notch service and quality without breaking the bank to enjoy your shiny home while saving time and energy.",
-                "href": "A link to additional information. If no link is available, leave as '#'",
-                "icon": "fa-solid fa-tag"
+                "Icon": "fa-solid fa-tag",
+                "Title": "Fair & Affordable Pricing",
+                "Description": "You'll get top-notch service and quality without breaking the bank to enjoy your shiny home while saving time and energy."
             }
         ]
     }

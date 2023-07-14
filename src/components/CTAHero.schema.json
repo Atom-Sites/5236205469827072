@@ -17,15 +17,6 @@
     "ImageUrl": {
         "value": "/images/placeholder.svg",
         "AI": true,
-        "instructions": "Act as a content creator. Find a hero image for our main service or company that would grab the viewer's attention and encourage them to take action. Make sure that the image is high quality, clear, and vibrant. Additionally, ensure it is visually representative of the product or service and contextually appropriate for the surrounding content. Provide a URL to your selected image for the hero section.  \n Example of keywords using the wanted result as an adjective to the object the service is for: \n For a residential house cleaning, search for beautiful interior home. \n For a pressure washing company, search for nice house exterior. \n For a residential window cleaning company, search for clean home window bright view."
-    },
-    "AltText": {
-        "value": "Alt text",
-        "AI": true,
-        "instructions": "Ensure that the alternative text for the image provides a succinct, yet equivalent alternative to the content and function of the image. Describe the image thoroughly, highlighting any special features or details that make the service unique. Use keywords for the service and include the main location."
-    },
-    "Anchor": {
-        "value": "top",
-        "AI": false
+        "instructions": "Act as a content creator. Find a hero image for our main service or company that would grab the viewer's attention and encourage them to take action. Make sure that the image is high quality, clear, and vibrant. Additionally, ensure it is visually representative of the product or service and contextually appropriate for the surrounding content. Provide a URL to your selected image for the hero section."
     }
 }

@@ -20,16 +20,19 @@ import SatisfactionGuarantee from '@/components/SatisfactionGuarantee';
 
 //Reviews
 import ReviewHero from '@/components/ReviewHero';
-import Testimonials from '@/components/Testimonials';
+import Reviews from '@/components/Reviews';
 
 //Services
 import BeforeAfter from '@/components/BeforeAfter';
 import SecondaryServices from '@/components/SecondaryServices';
 import Services from '@/components/Services';
 
+//Processes
+import Process from '@/components/Process';
+
 //CTAs
 import CallToAction from '@/components/CallToAction';
-import ImageDivider from '@/components/ImageDivider';
+import CTAHero from '@/components/CTAHero';
 
 //Footers
 import Footer from '@/components/Footer';
@@ -45,7 +48,6 @@ import Team from '@/components/Team';
 
 // Landing Page
 import LandingPageHero from '@/components/LandingPageHero';
-import LandingPageReview from '@/components/LandingPageReview';
 import ServiceLocation from '@/components/ServiceLocation';
 
 export default {
@@ -70,7 +72,7 @@ export default {
     "SatisfactionGuarantee": SatisfactionGuarantee,
 
     //Reviews
-    "Testimonials": Testimonials,
+    "Reviews": Reviews,
     "ReviewHero": ReviewHero,
 
     //Services
@@ -78,9 +80,12 @@ export default {
     "SecondaryServices": SecondaryServices,
     "BeforeAfter": BeforeAfter,
 
+    //Processes
+    "Process": Process,
+
     //CTAs
     "CallToAction": CallToAction,
-    "ImageDivider": ImageDivider,
+    "CTAHero": CTAHero,
 
     //Footers
     "Footer": Footer,
@@ -96,6 +101,5 @@ export default {
 
     // Landing Page
     "LandingPageHero": LandingPageHero,
-    "LandingPageReview": LandingPageReview,
     "ServiceLocation": ServiceLocation,
 }

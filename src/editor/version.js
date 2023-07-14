@@ -3,5 +3,5 @@
  * Used to determine if the editor installed in the site is up to date with master.
  */
 module.exports = {
-    version: 20
+    version: 22
 }

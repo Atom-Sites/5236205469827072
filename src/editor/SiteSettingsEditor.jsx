@@ -176,7 +176,7 @@ export function SiteSettingsEditor() {
             const data = await response.json()
 
             const updatedColors = {}
-            Object.entries(data).forEach(([shade, colorValue]) => {
+            Object.entries(data.colors).forEach(([shade, colorValue]) => {
                 updatedColors[`${variant}-${shade}`] = colorValue
 
                 document.documentElement.style.setProperty(
@@ -565,6 +565,32 @@ export function SiteSettingsEditor() {
                         onChange={handleColorChange('secondary')}
                         onClick={(event) => event.target.select()}
                     />
+                </div>
+            </div>
+
+            <div className="flex items-center justify-around gap-2">
+                <div className="flex justify-between gap-[1px]">
+                    {Object.values(colors)
+                        .slice(0, 11)
+                        .map((color) => (
+                            <div
+                                style={{ background: color }}
+                                className={`h-4 w-4 rounded-full`}
+                                key={color}
+                            />
+                        ))}
+                </div>
+
+                <div className="flex justify-between gap-[1px]">
+                    {Object.values(colors)
+                        .slice(11, 22)
+                        .map((color) => (
+                            <div
+                                style={{ background: color }}
+                                className={`h-4 w-4 rounded-full`}
+                                key={color}
+                            />
+                        ))}
                 </div>
             </div>
 

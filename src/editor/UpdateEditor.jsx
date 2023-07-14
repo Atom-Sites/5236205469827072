@@ -12,6 +12,7 @@ export function UpdateEditor(props) {
         try {
             const response = await fetch(
                 'https://us-central1-labs-ai-sites.cloudfunctions.net/updateEditor',
+                // 'http://localhost:3007',
                 {
                     method: 'POST',
                     headers: {

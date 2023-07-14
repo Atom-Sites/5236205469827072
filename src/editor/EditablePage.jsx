@@ -31,15 +31,13 @@ export function EditablePage(props) {
                 <GoogleFontLoader />
 
                 <GlobalEditor />
-                <EditablePageWithContext page_name={page_name} />
+                <EditablePageWithContext />
             </EditorContextProvider>
         </NotificationContextProvider>
     )
 }
 
-function EditablePageWithContext(props) {
-    const { page_name } = props
-
+function EditablePageWithContext() {
     const editor = useEditorContext()
 
     return (

@@ -1,108 +1,56 @@
 {
   "Services": [
     {
-      "Tagline": "service1",
-      "Header": "header",
-      "Body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "ImageUrl": "/images/placeholder.svg",
-      "AltText": "image Alt Text",
-      "CTA": "lorem ipsum",
+      "Tagline": "Pressure Washing",
+      "Header": "Revitalize your exteriors with our pressure washing!",
+      "Body": "Our pressure washing service is designed to remove the toughest dirt and grime from your property. With our state-of-the-art equipment and experienced professionals, we can make your exteriors look brand new. We guarantee your satisfaction at a reasonable and comfortable cost.",
+      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/d29a_a_man_using_a_hose_to_clean_a_sidewalk.webp",
+      "AltText": "Pressure washing service in Missouri City, TX",
+      "CTA": "Clean my exteriors!",
       "Features": [
         {
           "Icon": "fa-solid fa-check",
-          "Title": "service 1 feature 1 name",
-          "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+          "Title": "High-powered Cleaning",
+          "Description": "Our pressure washing service uses high-powered water jets to remove dirt, grime, and mildew from your property. It's effective and safe for a variety of surfaces."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "service 1 feature 2 name",
-          "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
+          "Title": "Experienced Professionals",
+          "Description": "Our team of experienced professionals is dedicated to providing you with the best service possible. We're meticulous, attentive to detail, and committed to your satisfaction."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "service 1 feature 3 name",
-          "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
+          "Title": "Satisfaction Guaranteed",
+          "Description": "We guarantee your satisfaction. If you're not completely satisfied with our pressure washing service, we'll make it right."
         }
       ],
-      "Anchor": "service-1"
+      "Anchor": "pressure-washing"
     },
     {
-      "Tagline": "service2",
-      "Header": "header",
-      "Body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "ImageUrl": "/images/placeholder.svg",
-      "AltText": "image Alt Text",
-      "CTA": "lorem ipsum",
+      "Tagline": "Soft Washing",
+      "Header": "Gently clean your property with our soft washing!",
+      "Body": "Our soft washing service is designed to clean your property gently and effectively. This method is perfect for delicate surfaces that may be damaged by high-pressure washing. We use eco-friendly cleaning solutions that are tough on dirt but gentle on your property.",
+      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/e663_a_truck_with_a_hose_on_the_back.webp",
+      "AltText": "Soft washing service in Missouri City, TX",
+      "CTA": "Gently clean my property!",
       "Features": [
         {
           "Icon": "fa-solid fa-check",
-          "Title": "service 2 feature 1 name",
-          "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+          "Title": "Gentle Cleaning",
+          "Description": "Our soft washing service uses low-pressure water and eco-friendly cleaning solutions to gently remove dirt, grime, and mildew from your property. It's perfect for delicate surfaces."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "service 2 feature 2 name",
-          "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
+          "Title": "Eco-friendly Solutions",
+          "Description": "We use eco-friendly cleaning solutions that are tough on dirt but gentle on your property and the environment."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "service 2 feature 3 name",
-          "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
+          "Title": "Satisfaction Guaranteed",
+          "Description": "We guarantee your satisfaction. If you're not completely satisfied with our soft washing service, we'll make it right."
         }
       ],
-      "Anchor": "service-2"
-    },
-    {
-      "Tagline": "service3",
-      "Header": "header",
-      "Body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "ImageUrl": "/images/placeholder.svg",
-      "AltText": "image Alt Text",
-      "CTA": "lorem ipsum",
-      "Features": [
-        {
-          "Icon": "fa-solid fa-check",
-          "Title": "service 3 feature 1 name",
-          "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
-        },
-        {
-          "Icon": "fa-solid fa-check",
-          "Title": "service 3 feature 2 name",
-          "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
-        },
-        {
-          "Icon": "fa-solid fa-check",
-          "Title": "service 3 feature 3 name",
-          "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
-        }
-      ],
-      "Anchor": "service-3"
-    },
-    {
-      "Tagline": "service4",
-      "Header": "header",
-      "Body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "ImageUrl": "/images/placeholder.svg",
-      "AltText": "image Alt Text",
-      "CTA": "lorem ipsum",
-      "Features": [
-        {
-          "Icon": "fa-solid fa-check",
-          "Title": "service 4 feature 1 name",
-          "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
-        },
-        {
-          "Icon": "fa-solid fa-check",
-          "Title": "service 4 feature 2 name",
-          "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
-        },
-        {
-          "Icon": "fa-solid fa-check",
-          "Title": "service 4 feature 3 name",
-          "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
-        }
-      ],
-      "Anchor": "service-4"
+      "Anchor": "soft-washing"
     }
   ]
 }

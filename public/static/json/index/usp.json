@@ -1,21 +1,21 @@
 {
-  "Header": "Transform your space with our top-tier pressure washing services!",
-  "Body": "Experience the difference with our comprehensive pressure washing services. Our dedicated team of professionals is committed to delivering outstanding results tailored to your unique needs. Revel in a clean and revitalized space with our diverse cleaning services.",
+  "Header": "Revitalize your space with our top-notch pressure washing services!",
+  "Body": "Discover the power of our pressure washing services. We're dedicated to providing meticulous service and ensuring your complete satisfaction. Make your property shine with our professional and affordable services.",
   "Features": [
     {
       "Icon": "fa-solid fa-award",
-      "Title": "Seasoned Professionals",
-      "Description": "With over a decade of experience, our team is equipped to provide high-quality cleaning services."
+      "Title": "Years of Expertise",
+      "Description": "With 14 years in the business, we bring a wealth of experience to every job."
     },
     {
       "Icon": "fa-solid fa-badge-check",
-      "Title": "Guaranteed Satisfaction",
-      "Description": "As a Better Business Bureau certified company, we guarantee your satisfaction with our services."
+      "Title": "Customer Focused",
+      "Description": "Your satisfaction is our priority, and we strive to exceed your expectations."
     },
     {
       "Icon": "fa-solid fa-tag",
-      "Title": "Wide Range of Services",
-      "Description": "We offer a variety of services, from pressure washing to gutter cleaning, to meet all your cleaning needs."
+      "Title": "Affordable Services",
+      "Description": "Experience top-quality pressure washing services at a price that suits you."
     }
   ]
 }

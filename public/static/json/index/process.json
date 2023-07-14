@@ -1,27 +1,27 @@
 {
-  "Tagline": "Simplified Cleaning",
-  "Header": "Experience the ease of our pressure washing process!",
-  "Body": "Finding a reliable pressure washing service can be daunting, but we've made the process simple for you. Our easy scheduling and owner's presence on every job ensure your needs are met with utmost attention to detail. Plus, our specialized cleaning techniques guarantee a job well done.",
+  "Tagline": "Pressure Washing Simplified",
+  "Header": "Experience the ease of our professional pressure washing process!",
+  "Body": "Finding a reliable pressure washing service shouldn't be a hassle. That's why we've simplified our booking process for your convenience. Schedule your service online or over the phone, and we'll tailor it to your specific needs. Plus, our exclusive soft washing technique ensures a thorough clean without damaging your property. And with the owner present on every job, you can expect excellent customer service every step of the way.",
   "Steps": [
     {
       "Title": "Book Your Service",
-      "Description": "Schedule your cleaning service effortlessly online or over the phone.",
-      "Icon": "fa-solid fa-calendar-check"
+      "Description": "Schedule your pressure washing service online or by phone at your convenience.",
+      "Icon": "fa-solid fa-calendar-alt"
     },
     {
-      "Title": "We Handle the Rest",
-      "Description": "Our owner will personally oversee your job, ensuring top-notch service.",
-      "Icon": "fa-solid fa-user-tie"
+      "Title": "Receive Confirmation",
+      "Description": "We'll confirm your appointment and send a reminder so you won't forget.",
+      "Icon": "fa-solid fa-envelope"
+    },
+    {
+      "Title": "Professional Soft Washing",
+      "Description": "Our expert team will arrive on time and perform the pressure washing service using our exclusive soft washing technique.",
+      "Icon": "fa-solid fa-broom"
     },
     {
       "Title": "Enjoy the Results",
-      "Description": "Relish in the cleanliness and beauty of your freshly washed property.",
-      "Icon": "fa-solid fa-star"
-    },
-    {
-      "Title": "Satisfaction Guaranteed",
-      "Description": "Your satisfaction is our top priority, and we strive to exceed your expectations.",
-      "Icon": "fa-solid fa-heart"
+      "Description": "Relish in the cleanliness and freshness of your property after our service.",
+      "Icon": "fa-solid fa-smile"
     }
   ]
 }

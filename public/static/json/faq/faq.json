@@ -1,47 +1,39 @@
 {
   "Header": "How can we help?",
-  "Intro": "At Power Pressure Wash, we pride ourselves on our meticulous attention to detail and outstanding customer service. With 14 years of experience in the industry, we guarantee your satisfaction at a reasonable and comfortable cost. Our owner is present on every job, ensuring that every task is done to perfection.",
+  "Intro": "Power Pressure Wash has been delivering top-notch pressure washing services for 14 years, with a strong focus on customer satisfaction and meticulous attention to detail. The owner's presence at every job ensures excellent customer service and a guarantee of satisfaction at a comfortable cost. Our services extend beyond pressure washing to include roof and gutter cleaning, commercial cleaning, and parking lot striping, making us a one-stop solution for all your cleaning needs.",
   "Title": "Frequently asked questions",
   "FAQs": [
     {
-      "Question": "How often should I have my patio pressure washed in Southwest Houston?",
-      "Answer": "The frequency of pressure washing can vary depending on the level of dirt and grime. However, we generally recommend having your patio pressure washed at least once a year."
+      "Question": "How often should I have my patio/deck/siding pressure washed in Southwest Houston?",
+      "Answer": "The frequency of pressure washing depends on several factors, including the type of surface and its exposure to dirt, grime, and weather conditions. We recommend a consultation to determine the best schedule for your specific needs."
     },
     {
       "Question": "Do I need to be home during the pressure washing service?",
-      "Answer": "No, you do not need to be home during the service. Our team can handle the job efficiently and professionally, even in your absence."
+      "Answer": "While it's not necessary for you to be home during the service, we ensure clear communication and coordination to ensure the process is smooth and convenient for you."
     },
     {
       "Question": "How long does it take to pressure wash an average-sized home in Southwest Houston?",
-      "Answer": "The duration can vary depending on the size of your home and the level of dirt. However, an average-sized home usually takes about 2-3 hours to pressure wash."
+      "Answer": "The time it takes to pressure wash a home can vary depending on the size and condition of the property. However, our efficient team and top-of-the-line equipment ensure a thorough and timely job."
     },
     {
       "Question": "Do I need to remove all outdoor items, such as furniture, before the pressure washing service?",
-      "Answer": "Yes, we recommend removing all outdoor items to ensure a thorough clean and to prevent any potential damage to your belongings."
+      "Answer": "We recommend removing or covering any outdoor items to protect them from the pressure washing process. Our team can also assist with this as needed."
     },
     {
       "Question": "Can pressure washing damage my property's surface?",
-      "Answer": "If done incorrectly, pressure washing can potentially cause damage. However, at Power Pressure Wash, our experienced team uses the correct pressure and cleaning agents to ensure a safe and effective clean."
+      "Answer": "Our experienced team is trained to use the correct pressure and cleaning solutions for each surface type to prevent any damage. Your property is safe in our hands."
     },
     {
       "Question": "What cleaning agents do you use during the pressure washing service?",
-      "Answer": "We use a variety of professional-grade cleaning agents that are designed to effectively remove dirt and grime without causing harm to your property or the environment."
+      "Answer": "We use a variety of cleaning agents depending on the surface and the type of dirt or grime we're dealing with. All our cleaning agents are safe and eco-friendly."
     },
     {
       "Question": "Are you licensed and insured to provide pressure washing services in Southwest Houston?",
-      "Answer": "Yes, we are licensed and insured. We also hold a certification from the Better Business Bureau."
+      "Answer": "Yes, Power Pressure Wash is fully licensed and insured. We also hold a Better Business Bureau certification for our commitment to quality and customer satisfaction."
     },
     {
       "Question": "Do you provide any guarantees for your work?",
-      "Answer": "Yes, we guarantee your satisfaction. Our owner is present on every job to ensure the highest level of service and quality."
-    },
-    {
-      "Question": "What services do you offer?",
-      "Answer": "We offer a range of services including Pressure Washing, Soft Washing, Roof Cleaning, Gutter Cleaning, Commercial Cleaning, and Parking Lot Striping."
-    },
-    {
-      "Question": "Do you offer services in other cities besides Southwest Houston?",
-      "Answer": "Yes, we serve a variety of cities including Missouri City, Sugarland, Stafford, Fresno, Arcola, Pearland, Pasadena, Rosharon, Katy, Richmond, Rosenberg, Houston, Humble, Cypress, TX."
+      "Answer": "Absolutely! We guarantee customer satisfaction at a reasonable and comfortable cost. Our owner is present at every job to ensure the highest standards of service."
     }
   ]
 }

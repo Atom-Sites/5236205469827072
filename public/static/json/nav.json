@@ -5,6 +5,10 @@
       "Anchor": "pressure-washing"
     },
     {
+      "Name": "Soft Washing",
+      "Anchor": "soft-washing"
+    },
+    {
       "Name": "Roof Cleaning",
       "Anchor": "roof-cleaning"
     },
@@ -21,6 +25,6 @@
       "Anchor": "parking-lot-striping"
     }
   ],
-  "CTA": "Book Now",
+  "CTA": "Book now",
   "Phone": "(832) 610-2225"
 }

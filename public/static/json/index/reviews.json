@@ -1,6 +1,6 @@
 {
   "Tagline": "Reviews",
-  "Header": "People are raving about the exceptional service and professionalism of Power Pressure Wash. Here's what some of our customers are saying:",
+  "Header": "Explore the experiences of our customers with Power Pressure Wash. Here are some testimonials from our happy clients.",
   "Reviews": [
     {
       "Body": "Owner\u2019s son came to do the job. He did a great job. Was very polite and responsive.",
@@ -14,8 +14,8 @@
       "Body": "Did a great job! Very friendly. I would highly recommend.",
       "Author": {
         "Name": "Donna Davis",
-        "Source": "Nicejob",
-        "Icon": "/images/nicejob-badge.svg"
+        "Source": "NiceJob",
+        "Icon": "/images/google-badge.svg"
       }
     },
     {
@@ -23,7 +23,7 @@
       "Author": {
         "Name": "Susan Schatz",
         "Source": "Facebook",
-        "Icon": "/images/facebook-badge.svg"
+        "Icon": "/images/google-badge.svg"
       }
     }
   ],

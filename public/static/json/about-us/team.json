@@ -1,10 +1,10 @@
 {
-  "Header": "Our Dedicated Team",
-  "Body": "At Power Pressure Wash, we pride ourselves on our professional and responsive team. Our commitment to quality service and customer satisfaction sets us apart in the industry. Meet the team that makes it all possible.",
+  "Header": "Meet the Team",
+  "Body": "Our team at Power Pressure Wash is dedicated to providing excellent customer service and meticulous attention to detail. With 14 years of experience in the industry, we guarantee your satisfaction at a reasonable and comfortable cost.",
   "People": [
     {
       "Person": {
-        "ImageURL": "[STOCK: Portrait of Roosevelt Lee]",
+        "ImageURL": "https://image.shutterstock.com/display_pic_with_logo/301539971/1940410141/stock-photo-smiling-indian-business-man-working-on-laptop-at-home-office-young-indian-student-or-remote-1940410141.jpg",
         "Name": "Roosevelt Lee",
         "Role": "Owner-Operator"
       }

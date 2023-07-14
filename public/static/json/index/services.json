@@ -1,56 +1,108 @@
 {
   "Services": [
     {
-      "Tagline": "Pressure Washing",
-      "Header": "Revive your exteriors with our pressure washing!",
-      "Body": "Our pressure washing service is designed to remove stubborn dirt and grime, giving your property a fresh and clean appearance. We use high-quality equipment and techniques to ensure a thorough clean without causing any damage.",
-      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/d29a_a_man_using_a_hose_to_clean_a_sidewalk.webp",
-      "AltText": "High pressure water cleaning service by Power Pressure Wash",
-      "CTA": "Revive my exteriors!",
+      "Tagline": "service1",
+      "Header": "header",
+      "Body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "ImageUrl": "/images/placeholder.svg",
+      "AltText": "image Alt Text",
+      "CTA": "lorem ipsum",
       "Features": [
         {
           "Icon": "fa-solid fa-check",
-          "Title": "Thorough Cleaning",
-          "Description": "Our pressure washing service provides a thorough cleaning, removing all dirt and grime from your property's exterior."
+          "Title": "service 1 feature 1 name",
+          "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "Safe Techniques",
-          "Description": "We use safe and effective pressure washing techniques to ensure no damage is caused to your property during the cleaning process."
+          "Title": "service 1 feature 2 name",
+          "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "High-Quality Equipment",
-          "Description": "Our team uses high-quality pressure washing equipment to provide a superior clean."
+          "Title": "service 1 feature 3 name",
+          "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
         }
       ],
-      "Anchor": "pressure-washing"
+      "Anchor": "service-1"
     },
     {
-      "Tagline": "Roof Cleaning",
-      "Header": "Uncover your roof's pristine beauty!",
-      "Body": "Our roof cleaning service is designed to remove all forms of dirt, moss, and algae, restoring your roof's original color and beauty. We use safe and effective methods to ensure no damage is caused to your roof.",
-      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/4afb_a_roof_with_a_metal_roofing_system.webp",
-      "AltText": "Roof cleaning service by Power Pressure Wash",
-      "CTA": "Reveal my roof's beauty!",
+      "Tagline": "service2",
+      "Header": "header",
+      "Body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "ImageUrl": "/images/placeholder.svg",
+      "AltText": "image Alt Text",
+      "CTA": "lorem ipsum",
       "Features": [
         {
           "Icon": "fa-solid fa-check",
-          "Title": "Moss and Algae Removal",
-          "Description": "Our roof cleaning service effectively removes moss, algae, and other forms of dirt, restoring your roof's original color and beauty."
+          "Title": "service 2 feature 1 name",
+          "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "Safe Cleaning Methods",
-          "Description": "We use safe and effective roof cleaning methods to ensure no damage is caused to your roof during the cleaning process."
+          "Title": "service 2 feature 2 name",
+          "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "Experienced Team",
-          "Description": "Our team of experienced professionals ensure a thorough and effective roof cleaning service."
+          "Title": "service 2 feature 3 name",
+          "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
         }
       ],
-      "Anchor": "roof-cleaning"
+      "Anchor": "service-2"
+    },
+    {
+      "Tagline": "service3",
+      "Header": "header",
+      "Body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "ImageUrl": "/images/placeholder.svg",
+      "AltText": "image Alt Text",
+      "CTA": "lorem ipsum",
+      "Features": [
+        {
+          "Icon": "fa-solid fa-check",
+          "Title": "service 3 feature 1 name",
+          "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+        },
+        {
+          "Icon": "fa-solid fa-check",
+          "Title": "service 3 feature 2 name",
+          "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
+        },
+        {
+          "Icon": "fa-solid fa-check",
+          "Title": "service 3 feature 3 name",
+          "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
+        }
+      ],
+      "Anchor": "service-3"
+    },
+    {
+      "Tagline": "service4",
+      "Header": "header",
+      "Body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "ImageUrl": "/images/placeholder.svg",
+      "AltText": "image Alt Text",
+      "CTA": "lorem ipsum",
+      "Features": [
+        {
+          "Icon": "fa-solid fa-check",
+          "Title": "service 4 feature 1 name",
+          "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+        },
+        {
+          "Icon": "fa-solid fa-check",
+          "Title": "service 4 feature 2 name",
+          "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
+        },
+        {
+          "Icon": "fa-solid fa-check",
+          "Title": "service 4 feature 3 name",
+          "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
+        }
+      ],
+      "Anchor": "service-4"
     }
   ]
 }

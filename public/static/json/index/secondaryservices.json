@@ -1,45 +1,13 @@
 {
   "Services": [
     {
-      "Service": "Soft Washing",
-      "Anchor": "soft-washing",
-      "Header": "Experience the gentleness of our Soft Washing!",
-      "Body": "Soft Washing is a gentle yet effective cleaning method that is ideal for delicate surfaces. Our team of experts use professional-grade equipment and eco-friendly cleaning solutions to remove dirt, grime, and algae without causing any damage. Experience the difference with our Soft Washing service!",
-      "ImageUrl": "https://image.shutterstock.com/display_pic_with_logo/301539971/1676854246/stock-photo-young-woman-washing-hands-with-soap-over-sink-under-faucet-with-water-in-bathroom-girl-doing-1676854246.jpg",
-      "AltText": "Professional performing soft washing in Southwest Houston"
-    },
-    {
-      "Service": "Roof Cleaning",
-      "Anchor": "roof-cleaning",
-      "Header": "Reveal your roof's true beauty!",
-      "Body": "Our Roof Cleaning service not only enhances the aesthetic appeal of your property but also extends the lifespan of your roof. We use specialized techniques to remove all traces of moss, algae, and lichen, leaving your roof looking as good as new. Trust us to restore the beauty of your roof!",
-      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/4afb_a_roof_with_a_metal_roofing_system.webp",
-      "AltText": "Clean roof after professional cleaning in Southwest Houston"
-    },
-    {
-      "Service": "Gutter Cleaning",
-      "Anchor": "gutter-cleaning",
-      "Header": "Ensure efficient water flow with our Gutter Cleaning!",
-      "Body": "Clogged gutters can lead to serious water damage to your property. Our Gutter Cleaning service ensures that your gutters are free from leaves, twigs, and other debris, allowing for efficient water flow. Avoid costly repairs with our comprehensive Gutter Cleaning service!",
-      "ImageUrl": "https://image.shutterstock.com/display_pic_with_logo/162718586/162672428/stock-photo-man-cleaning-the-gutter-from-autumn-leaves-162672428.jpg",
-      "AltText": "Clean gutters after professional cleaning in Southwest Houston"
-    },
-    {
-      "Service": "Commercial Cleaning",
-      "Anchor": "commercial-cleaning",
-      "Header": "Boost your business image with our Commercial Cleaning!",
-      "Body": "A clean and well-maintained commercial space not only creates a positive impression but also promotes a healthier work environment. Our Commercial Cleaning service is designed to meet your specific needs, ensuring a spotless and inviting space. Elevate your business image with our exceptional Commercial Cleaning service!",
-      "ImageUrl": "https://image.shutterstock.com/display_pic_with_logo/301539971/1994125493/stock-photo-meeting-conference-room-with-blank-empty-mockup-tv-screen-monitor-for-advertising-standing-in-1994125493.jpg",
-      "AltText": "Clean commercial space after professional cleaning in Southwest Houston"
-    },
-    {
-      "Service": "Parking Lot Striping",
-      "Anchor": "parking-lot-striping",
-      "Header": "Enhance safety and organization with our Parking Lot Striping!",
-      "Body": "Properly striped parking lots not only improve the appearance of your commercial property but also enhance safety and organization. Our Parking Lot Striping service ensures clear and visible markings, promoting efficient traffic flow and reducing the risk of accidents. Trust us to bring order and safety to your parking lot!",
-      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/7b65_a_parking_lot_with_a_sign_that_says,'the_parking_lot_is_closed_'.webp",
-      "AltText": "Well-striped parking lot in Southwest Houston"
+      "Service": "Placeholder Service",
+      "Anchor": "placeholder-service",
+      "Header": "Experience the transformation with our placeholder service!",
+      "Body": "Our placeholder service is designed to meet your needs and exceed your expectations. We bring you the best in the industry, ensuring top-notch quality and service. Experience the difference with us today!",
+      "ImageUrl": "[ IMAGE: High quality image of a placeholder service ]",
+      "AltText": "High quality image of our placeholder service in action"
     }
   ],
-  "CTA": "Boost my cleanliness!"
+  "CTA": "Try our service!"
 }

@@ -142,7 +142,7 @@ export default function Nav(props) {
                     <div className="ml-2 flex items-center">
                         <a
                             aria-label="Call us"
-                            href={`tel: ${phone}`}
+                            href={`tel: ${Phone}`}
                             className="font-heading rounded-2xl bg-secondary-700 px-4 py-4 text-base text-white shadow-sm transition-all ease-in hover:bg-secondary-600 focus-visible:outline focus-visible:outline-0 focus-visible:outline-offset-2 focus-visible:outline-transparent"
                         >
                             <svg

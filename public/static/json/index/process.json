@@ -1,27 +1,27 @@
 {
-  "Tagline": "Effortless Cleaning Journey",
-  "Header": "Pressure washing made simple and effective!",
-  "Body": "Finding a trustworthy pressure washing service can be daunting, but we've made it easy for you. Our process, from convenient scheduling to the owner's involvement in every job, ensures high-quality service and customer satisfaction. We stand out with our efficient task processing and unique cleaning techniques.",
+  "Tagline": "Effortless Cleaning",
+  "Header": "Experience hassle-free pressure washing and cleaning services!",
+  "Body": "Struggling to find a reliable cleaning service? We've got you covered. Our easy scheduling process, combined with our professional and efficient service, ensures you get the results you want without any extra stress. Plus, our owner is present on every job, providing that personal touch that sets us apart from the competition.",
   "Steps": [
     {
       "Title": "Book Your Service",
-      "Description": "Easily schedule your appointment online or by phone, customized to your specific needs.",
-      "Icon": "fa-solid fa-calendar-check"
+      "Description": "Schedule your cleaning service online or over the phone, at a time that suits you best.",
+      "Icon": "fa-solid fa-phone"
     },
     {
-      "Title": "Appointment Confirmation",
-      "Description": "We'll confirm your booking and send you a friendly SMS reminder a day before.",
-      "Icon": "fa-solid fa-mobile"
+      "Title": "Professional Cleaning",
+      "Description": "Our skilled team, led by the owner, will provide top-notch pressure washing and cleaning services.",
+      "Icon": "fa-solid fa-broom"
     },
     {
-      "Title": "Expert Cleaning",
-      "Description": "Our team, supervised by the owner, will deliver exceptional pressure washing services.",
-      "Icon": "fa-solid fa-water"
+      "Title": "Quality Assurance",
+      "Description": "We ensure every job is done to perfection, guaranteeing your satisfaction at a reasonable cost.",
+      "Icon": "fa-solid fa-thumbs-up"
     },
     {
-      "Title": "Outstanding Results!",
-      "Description": "Relish the transformation of your outdoor spaces with our superior cleaning!",
-      "Icon": "fa-solid fa-grin-stars"
+      "Title": "Sparkling Results!",
+      "Description": "Enjoy a cleaner, fresher home or business premises!",
+      "Icon": "fa-solid fa-smile-beam"
     }
   ]
 }

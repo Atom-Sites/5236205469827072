@@ -6,10 +6,6 @@
             "component_key": "LandingPageHero"
         },
         {
-            "slug": "landingpagereview",
-            "component_key": "LandingPageReview"
-        },
-        {
             "slug": "servicelocation",
             "component_key": "ServiceLocation"
         }

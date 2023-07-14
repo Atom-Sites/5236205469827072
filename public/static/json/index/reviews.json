@@ -1,0 +1,31 @@
+{
+  "Tagline": "Reviews",
+  "Header": "Discover what our customers are saying about Power Pressure Wash. From excellent service to professional and friendly staff, read their experiences below.",
+  "Reviews": [
+    {
+      "Body": "Owner\u2019s son came to do the job. He did a great job. Was very polite and responsive.",
+      "Author": {
+        "Name": "Vinay Shah",
+        "Source": "Google",
+        "Icon": "/images/google-badge.svg"
+      }
+    },
+    {
+      "Body": "Did a great job! Very friendly. I would highly recommend.",
+      "Author": {
+        "Name": "Donna Davis",
+        "Source": "Nicejob",
+        "Icon": "/images/google-badge.svg"
+      }
+    },
+    {
+      "Body": "Absolutely! Beautiful job and very professional!",
+      "Author": {
+        "Name": "Susan Schatz",
+        "Source": "Facebook",
+        "Icon": "/images/google-badge.svg"
+      }
+    }
+  ],
+  "CTA": "Read more reviews"
+}

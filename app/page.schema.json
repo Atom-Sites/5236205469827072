@@ -1,29 +1,30 @@
 {
-    "title": {
-        "value": "junkless template",
+    "PageName": {
+        "value": "<Company Name>",
         "AI": true,
-        "instructions": "Title of the page."
+        "instructions": "<Company Name>"
     },
-    "pageTitle": {
-        "value": "dummy title",
+    "TitleTag": {
+        "value": "Main Service in Location | <Company Name>",
         "AI": true,
-        "instructions": "Write <service> | <Company Name>. Use the example as a basis.",
+        "instructions": "Write <main service> in <main location> | <Company Name>. Use the example as a basis.",
         "example": "Window Cleaning in Boston | <Company Name>"
     },
-    "pageName": {
-        "value": "dummy name",
+    "OpenGraphTitle": {
+        "value": "Main Service in Location | <Company Name>",
         "AI": true,
-        "instructions": "Company Name"
+        "instructions": "Write <main service> in <main location> | <Company Name>. Use the example as a basis.",
+        "example": "Window Cleaning in Boston | <Company Name>"
     },
-    "imageUrl": {
-        "value": "placeholder",
+    "ImageUrl": {
+        "value": "/images/placeholder.svg",
         "AI": true,
-        "instructions": "A href to the hero image for the page"
+        "instructions": "A href to the hero image for the page."
     },
-    "description": {
-        "value": "this page is about stuff",
+    "MetaDescription": {
+        "value": "Are you looking for our services in the area? With our experienced team committed to customer satisfaction, you can trust that we will get the job done right. Book an appointment today!",
         "AI": true,
-        "instructions": "Write a very short SEO-oriented meta description with max 160 characters.",
-        "example": "Are you looking for ... services in the ... area? With our experienced team committed to customer satisfaction, you can trust that ... will get the job done right. Book an appointment today!"
+        "instructions": "Act as an SEO specialist. Create a meta description for our services. Optimize it for search engines and keep in mind the target audience. Make it brief, clear, and relevant. Remember to use keywords where suitable to increase traffic and engagement on the website. Limit to 160 characters. \n Examples to follow: \n Experience a cleaner property with Sudbury's top cleaning services. Our experts deliver exceptional results, ensuring a spotless space for all. Book today! \n Transform your space with Sudbury's premier cleaning services. Trust our skilled professionals for immaculate results and a fresh environment. Schedule now! \n Let's take all the hard work off your hands, providing a sparkling clean view you can be proud of. Book with Sudbury's top window cleaners today! \n Maximize your legal success with expert lawyers in Sudbury. Our personalized services and strategic approach ensure favorable outcomes. Contact us now! \n Elevate your home with Los Angeles' top painting services. Our skilled painters deliver flawless results, creating a stunning space you'll love. Schedule today!",
+        "example": "Are you looking for our services in the area? With our experienced team committed to customer satisfaction, you can trust that we will get the job done right. Book an appointment today!"
     }
 }

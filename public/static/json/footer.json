@@ -1,43 +1,43 @@
 {
   "Header": "Contact us today!",
-  "footerText": "We gladly service Southwest Houston and surrounding areas including Missouri City, Sugarland, Stafford, Fresno, Arcola, Pearland, Pasadena, Rosharon, Katy, Richmond, Rosenberg, Houston, Humble, and Cypress, TX.",
-  "address": "3619 Duncaster Dr, Missouri City, TX, US, 77459",
-  "phone": "+18326102225",
-  "email": "powerpressurewash@yahoo.com",
-  "socials": [
+  "Body": "We gladly service Southwest Houston, and surrounding areas including Missouri City, Sugarland, Stafford, Fresno, Arcola, Pearland, Pasadena, Rosharon, Katy, Richmond, Rosenberg, Houston, Humble, Cypress, TX.",
+  "Address": "3619 Duncaster Dr, Missouri City, TX, US, 77459",
+  "Phone": "+18326102225",
+  "Email": "powerpressurewash@yahoo.com",
+  "Socials": [
     {
-      "name": "Facebook",
-      "href": "https://www.facebook.com/PowerPressureWash/"
+      "Name": "Facebook",
+      "Link": "https://www.facebook.com/PowerPressureWash/"
     },
     {
-      "name": "Google",
-      "href": "https://maps.google.com/maps?cid=5991534813799155480"
+      "Name": "Google",
+      "Link": "https://maps.google.com/maps?cid=5991534813799155480"
     }
   ],
-  "services": [
+  "Services": [
     {
-      "name": "Pressure Washing",
-      "anchor": "pressure-washing"
+      "Name": "Pressure Washing",
+      "Anchor": "pressure-washing"
     },
     {
-      "name": "Soft Washing",
-      "anchor": "soft-washing"
+      "Name": "Soft Washing",
+      "Anchor": "soft-washing"
     },
     {
-      "name": "Roof Cleaning",
-      "anchor": "roof-cleaning"
+      "Name": "Roof Cleaning",
+      "Anchor": "roof-cleaning"
     },
     {
-      "name": "Gutter Cleaning",
-      "anchor": "gutter-cleaning"
+      "Name": "Gutter Cleaning",
+      "Anchor": "gutter-cleaning"
     },
     {
-      "name": "Commercial Cleaning",
-      "anchor": "commercial-cleaning"
+      "Name": "Commercial Cleaning",
+      "Anchor": "commercial-cleaning"
     },
     {
-      "name": "Parking Lot Striping",
-      "anchor": "parking-lot-striping"
+      "Name": "Parking Lot Striping",
+      "Anchor": "parking-lot-striping"
     }
   ]
 }

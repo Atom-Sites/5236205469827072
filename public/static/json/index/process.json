@@ -1,0 +1,27 @@
+{
+  "Tagline": "Effortless Cleaning",
+  "Header": "Unleash the power of easy pressure washing!",
+  "Body": "Tired of dealing with dirt and grime? We make it easy. Our seamless booking process and efficient service delivery ensure a hassle-free experience. Plus, our unique pressure washing techniques guarantee a spotless finish, every time.",
+  "Steps": [
+    {
+      "Title": "Schedule a service",
+      "Description": "Book an appointment that suits your schedule, either online or by phone.",
+      "Icon": "fa-solid fa-calendar-alt"
+    },
+    {
+      "Title": "Get confirmation",
+      "Description": "Receive a detailed confirmation message about your upcoming service.",
+      "Icon": "fa-solid fa-envelope"
+    },
+    {
+      "Title": "Enjoy the service",
+      "Description": "Our expert team will efficiently pressure wash your space to perfection.",
+      "Icon": "fa-solid fa-check"
+    },
+    {
+      "Title": "Relish the cleanliness",
+      "Description": "Experience the joy of a spotlessly clean and fresh area.",
+      "Icon": "fa-solid fa-smile"
+    }
+  ]
+}

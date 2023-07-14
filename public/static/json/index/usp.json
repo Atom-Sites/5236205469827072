@@ -1,24 +1,21 @@
 {
-  "Header": "Revamp your space with our top-notch pressure washing services!",
-  "Body": "Get ready to see your property in a new light with our exceptional pressure washing services. We're committed to your satisfaction, delivering a service that goes above and beyond your expectations. With our attention to detail and years of experience, you're guaranteed a cleaning service unlike any other.",
+  "Header": "Experience exceptional pressure washing services and customer satisfaction!",
+  "Body": "Discover the ultimate cleaning experience with our pressure washing services! With the owner present at every job, we ensure excellent customer service and your complete satisfaction. Our 14 years of experience and certification from the Better Business Bureau guarantee top-notch service and quality.",
   "Features": [
     {
-      "name": "Superior Cleaning",
-      "description": "Experience a transformation like no other with our pressure washing service, making your property look as good as new.",
-      "href": "#",
-      "icon": "fa-solid fa-broom"
+      "Icon": "fa-solid fa-award",
+      "Title": "Experienced Professionals",
+      "Description": "Trust in our 14 years of experience in the pressure washing industry for superior service."
     },
     {
-      "name": "Guaranteed Satisfaction",
-      "description": "Your satisfaction is our priority. We won't stop until you're completely happy with the results.",
-      "href": "#",
-      "icon": "fa-solid fa-smile"
+      "Icon": "fa-solid fa-user-check",
+      "Title": "Exceptional Customer Service",
+      "Description": "Experience personalized service with the owner present at every job, ensuring your complete satisfaction."
     },
     {
-      "name": "Proven Experience",
-      "description": "Trust in our 14 years of experience in the industry. We have the expertise to handle any job, big or small.",
-      "href": "#",
-      "icon": "fa-solid fa-award"
+      "Icon": "fa-solid fa-badge-check",
+      "Title": "Certified Quality",
+      "Description": "Feel confident in our services, certified by the Better Business Bureau, guaranteeing professionalism and quality."
     }
   ]
 }

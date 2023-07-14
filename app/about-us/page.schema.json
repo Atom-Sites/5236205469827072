@@ -1,29 +1,26 @@
 {
-    "title": {
-        "value": "junkless template",
-        "AI": true,
-        "instructions": "Title of the page. This is the 'about' page."
+    "PageName": {
+        "value": "About Us",
+        "AI": false
     },
-    "pageTitle": {
-        "value": "dummy title",
+    "TitleTag": {
+        "value": "About Us | <Company Name>",
         "AI": true,
-        "instructions": "Write <service> | <Company Name>. Use the example as a basis.",
-        "example": "Window Cleaning in Boston | <Company Name>"
+        "instructions": "About Us | <Company Name>. Use the example as a basis.",
+        "example": "About Us | <Company Name>. Use the example as a basis."
     },
     "pageName": {
-        "value": "dummy name",
+        "value": "About Us | <Company Name>",
         "AI": true,
-        "instructions": "Company Name"
+        "instructions": "About Us | <Company Name>. Use the example as a basis.",
+        "example": "About Us | <Company Name>. Use the example as a basis."
     },
-    "imageUrl": {
-        "value": "placeholder",
-        "AI": true,
-        "instructions": "A href to the hero image for the page"
+    "ImageUrl": {
+        "value": "",
+        "AI": false
     },
-    "description": {
-        "value": "this page is about stuff",
-        "AI": true,
-        "instructions": "Write a very short SEO-oriented meta description with max 160 characters.",
-        "example": "Are you looking for ... services in the ... area? With our experienced team committed to customer satisfaction, you can trust that ... will get the job done right. Book an appointment today!"
+    "MetaDescription": {
+        "value": "Let's work together. Contact us today for more information!",
+        "AI": false
     }
 }

@@ -22,8 +22,8 @@
             "component_key": "Services"
         },
         {
-            "slug": "imagedivider",
-            "component_key": "ImageDivider"
+            "slug": "process",
+            "component_key": "Process"
         },
         {
             "slug": "satisfactionguarantee",
@@ -42,12 +42,16 @@
             "component_key": "Credentials"
         },
         {
-            "slug": "testimonials",
-            "component_key": "Testimonials"
+            "slug": "reviews",
+            "component_key": "Reviews"
         },
         {
             "slug": "call_to_action",
             "component_key": "CallToAction"
+        },
+        {
+            "slug": "ctahero",
+            "component_key": "CTAHero"
         }
     ]
 }

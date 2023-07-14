@@ -1,29 +1,26 @@
 {
-    "title": {
-        "value": "junkless template",
-        "AI": true,
-        "instructions": "Title of the page. This is the FAQ page."
+    "PageName": {
+        "value": "FAQ",
+        "AI": false
     },
-    "pageTitle": {
-        "value": "dummy title",
+    "TitleTag": {
+        "value": "FAQ | Crux Climbing Co",
         "AI": true,
-        "instructions": "Write <service> | <Company Name>. Use the example as a basis.",
-        "example": "Window Cleaning in Boston | <Company Name>"
+        "instructions": "FAQ | <Company Name>. Use the example as a basis.",
+        "example": "FAQ | <Company Name>"
     },
-    "pageName": {
-        "value": "dummy name",
+    "OpenGraphTitle": {
+        "value": "FAQ | Crux Climbing Co",
         "AI": true,
-        "instructions": "Company Name"
+        "instructions": "FAQ | <Company Name>. Use the example as a basis.",
+        "example": "FAQ | <Company Name>"
     },
-    "imageUrl": {
-        "value": "placeholder",
-        "AI": true,
-        "instructions": "A href to the hero image for the page"
+    "ImageUrl": {
+        "value": "",
+        "AI": false
     },
-    "description": {
-        "value": "this page is about stuff",
-        "AI": true,
-        "instructions": "Write a very short SEO-oriented meta description with max 160 characters.",
-        "example": "Are you looking for ... services in the ... area? With our experienced team committed to customer satisfaction, you can trust that ... will get the job done right. Book an appointment today!"
+    "MetaDescription": {
+        "value": "Our comprehensive FAQ section is packed with helpful information and answers to some of the most commonly asked questions about our services.",
+        "AI": false
     }
 }

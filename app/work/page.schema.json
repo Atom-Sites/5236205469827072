@@ -1,29 +1,28 @@
 {
-    "title": {
-        "value": "junkless template",
-        "AI": true,
-        "instructions": "Title of the page. This is the 'work' page"
+    "PageName": {
+        "value": "Our Work",
+        "AI": false
     },
-    "pageTitle": {
-        "value": "dummy title",
+    "TitleTag": {
+        "value": "Our Work | <Company Name>",
         "AI": true,
-        "instructions": "Write <service> | <Company Name>. Use the example as a basis.",
-        "example": "Window Cleaning in Boston | <Company Name>"
+        "instructions": "Our Work | <Company Name> Use the example as a basis.",
+        "example": "Our Work | <Company Name>"
     },
-    "pageName": {
-        "value": "dummy name",
+    "OpenGraphTitle": {
+        "value": "Our Work | <Company Name>",
         "AI": true,
-        "instructions": "Company Name"
+        "instructions": "Our Work | <Company Name> Use the example as a basis.",
+        "example": "Our Work | <Company Name>"
     },
-    "imageUrl": {
-        "value": "placeholder",
-        "AI": true,
-        "instructions": "A href to the hero image for the page"
+    "ImageUrl": {
+        "value": "",
+        "AI": false
     },
-    "description": {
-        "value": "this page is about stuff",
+    "MetaDescription": {
+        "value": "See the stunning results of our  services for residential and commercial customers in and around . Contact us today!",
         "AI": true,
-        "instructions": "Write a very short SEO-oriented meta description with max 160 characters.",
-        "example": "Are you looking for ... services in the ... area? With our experienced team committed to customer satisfaction, you can trust that ... will get the job done right. Book an appointment today!"
+        "instructions": "Act as an SEO specialist. Write a very short SEO-oriented meta description with max 160 characters.",
+        "example": "See the stunning results of our (services) for residents in and around (main location). Contact us today!"
     }
 }

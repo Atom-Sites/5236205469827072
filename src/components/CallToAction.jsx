@@ -26,7 +26,7 @@ export default function CallToAction(props) {
                         <h2 className="mt-2 font-display text-3xl font-semibold tracking-tight text-neutral-800 sm:text-4xl sm:leading-tight">
                             {Header}
                         </h2>
-                        <p className="mt-6 text-base leading-7 text-neutral-800">
+                        <p className="text-balance mt-6 text-base leading-7 text-neutral-800">
                             {Body}
                         </p>
                         <div className="justify-left mt-10 flex items-center">

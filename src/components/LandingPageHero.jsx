@@ -22,7 +22,7 @@ export default function HeroFullBG(props) {
                         <h1 className="mt-10 text-4xl font-bold tracking-tight text-white md:text-5xl lg:max-w-4xl lg:text-6xl">
                             {Header}
                         </h1>
-                        <p className="mt-6 text-lg leading-8 text-neutral-200">
+                        <p className="text-balance mt-6 text-lg leading-8 text-neutral-200">
                             {Body}
                         </p>
 

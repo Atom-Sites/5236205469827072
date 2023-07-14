@@ -14,7 +14,7 @@ export default function SatisfactionGuarantee(props) {
                 <i
                     className={`${Icon} mx-1 mb-6 text-4xl text-white sm:text-4xl lg:text-6xl`}
                 />
-                <h2 className="font-display text-3xl font-semibold tracking-tight text-white lg:text-4xl">
+                <h2 className="text-balance font-display text-3xl font-semibold tracking-tight text-white lg:text-4xl">
                     {Header}
                 </h2>
                 <p className="mt-6 text-lg leading-8 text-white">{Body}</p>

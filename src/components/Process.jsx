@@ -14,7 +14,7 @@ export default function Process(props) {
                 <div className="mx-auto px-6 pb-16 sm:max-w-xl md:max-w-full md:px-24 lg:max-w-screen-xl lg:px-8">
                     <div className="mb-6 max-w-xl sm:text-center md:mx-auto md:mb-10 lg:max-w-2xl">
                         <div>
-                            <p className="text-base font-bold uppercase leading-7 tracking-wide text-primary-800">
+                            <p className="text-base font-bold uppercase leading-7 tracking-wide text-primary-700">
                                 {Tagline}
                             </p>
                         </div>
@@ -22,7 +22,7 @@ export default function Process(props) {
                         <h2 className="mt-2 font-display text-3xl font-semibold tracking-tight text-neutral-800 sm:text-4xl sm:leading-tight">
                             {Header}
                         </h2>
-                        <p className="mt-6 text-lg leading-8 text-neutral-800">
+                        <p className="text-balance mt-6 text-lg leading-8 text-neutral-800">
                             {Body}
                         </p>
                     </div>
@@ -39,7 +39,7 @@ export default function Process(props) {
                                 className="flex flex-col text-neutral-800"
                             >
                                 <div className="relative mb-2 flex min-h-[56px] justify-between">
-                                    <h3 className="pr-7 text-2xl font-semibold leading-7">
+                                    <h3 className="pr-7 font-display text-2xl font-semibold leading-7">
                                         {Step.Title}
                                     </h3>
                                     <i

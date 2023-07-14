@@ -18,7 +18,7 @@ export default function CTAHero(props) {
                         <h2 className="font-display text-3xl font-semibold tracking-tight text-white md:text-4xl lg:max-w-4xl lg:text-5xl">
                             {Header}
                         </h2>
-                        <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-white">
+                        <p className="text-balance mx-auto mt-6 max-w-2xl text-lg leading-8 text-white">
                             {Body}
                         </p>
 

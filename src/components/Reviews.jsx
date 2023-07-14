@@ -51,7 +51,7 @@ export default function Reviews(props) {
             <div className="mx-auto max-w-7xl px-6 lg:px-8">
                 {/*Review Intro*/}
                 <div className="mx-auto max-w-2xl text-center">
-                    <h2 className="text-base font-bold uppercase leading-7 tracking-wide text-primary-600">
+                    <h2 className="text-base font-bold uppercase leading-7 tracking-wide text-primary-700">
                         {Tagline}
                     </h2>
                     <h2 className="mt-2 font-display text-3xl font-semibold tracking-tight text-neutral-800 sm:text-4xl sm:leading-tight">

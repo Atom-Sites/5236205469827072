@@ -16,7 +16,7 @@ export default function Recommend(props) {
                     <h2 className="font-display text-2xl font-semibold tracking-tight text-white md:text-3xl lg:text-4xl">
                         {Header}
                     </h2>
-                    <p className="text-l mt-10 leading-8 text-white sm:text-xl sm:leading-9">
+                    <p className="text-balance text-l mt-10 leading-8 text-white sm:text-xl sm:leading-9">
                         {Body}
                     </p>
                 </div>

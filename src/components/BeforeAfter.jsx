@@ -71,7 +71,7 @@ export default function BeforeAfter(props) {
 
                     {/*Text Copy*/}
                     <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-lg">
-                        <h2 className="text-base font-bold uppercase leading-7 tracking-wide text-primary-600">
+                        <h2 className="text-base font-bold uppercase leading-7 tracking-wide text-primary-700">
                             {Tagline}
                         </h2>
                         <h2 className="mt-2 font-display text-2xl font-semibold tracking-tight text-neutral-800 md:text-3xl lg:text-4xl">

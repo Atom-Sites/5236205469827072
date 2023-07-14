@@ -6,7 +6,7 @@ import { Fragment } from 'react'
 export default function Faq(props) {
     const { Header, Intro, Title, FAQs } = props
 
-    if (!Header || !Intro ) {
+    if (!Header || !Intro) {
         return <div>failed to load</div>
     }
 
@@ -17,10 +17,10 @@ export default function Faq(props) {
                 <div className="relative px-6  lg:px-8">
                     <div className="mx-auto max-w-2xl py-24 lg:py-32">
                         <div className="text-center">
-                            <h1 className="text-4xl font-display font-semibold tracking-tight text-neutral-800 lg:text-6xl">
+                            <h1 className="font-display text-4xl font-semibold tracking-tight text-neutral-800 lg:text-6xl">
                                 {Header}
                             </h1>
-                            <p className="mt-6 text-lg leading-8 text-neutral-800">
+                            <p className="text-balance mt-6 text-lg leading-8 text-neutral-800">
                                 {Intro}
                             </p>
                         </div>
@@ -30,7 +30,7 @@ export default function Faq(props) {
 
             <div className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8 lg:py-40">
                 <div className="mx-auto max-w-4xl divide-y divide-neutral-800/10">
-                    <h2 className="text-4xl font-display font-bold leading-10 tracking-tight text-neutral-800">
+                    <h2 className="font-display text-4xl font-bold leading-10 tracking-tight text-neutral-800">
                         {Title}
                     </h2>
                     <dl className="mt-10 space-y-6 divide-y divide-neutral-800/10">
@@ -49,9 +49,15 @@ export default function Faq(props) {
                                                 </span>
                                                 <span className="ml-6 flex h-7 items-center">
                                                     {open ? (
-                                                        <MinusSmallIcon className="h-6 w-6" aria-hidden="true"/>
+                                                        <MinusSmallIcon
+                                                            className="h-6 w-6"
+                                                            aria-hidden="true"
+                                                        />
                                                     ) : (
-                                                        <PlusSmallIcon className="h-6 w-6" aria-hidden="true"/>
+                                                        <PlusSmallIcon
+                                                            className="h-6 w-6"
+                                                            aria-hidden="true"
+                                                        />
                                                     )}
                                                 </span>
                                             </Disclosure.Button>

@@ -24,14 +24,16 @@ export default function Footer(props) {
                         <h2 className="font-display text-2xl font-semibold tracking-tight text-white md:text-3xl lg:text-4xl">
                             {Header}
                         </h2>
-                        <p className="max-w-xl leading-7 text-white">{Body}</p>
+                        <p className="max-w-lg leading-7 text-white lg:max-w-xl">
+                            {Body}
+                        </p>
                         <div className="flex space-x-6">
                             {Socials.map((Social) => (
                                 <div key={Social.Name}>
                                     <a
                                         href={Social.Link}
-                                        className="text-primary-300
-                                         transition-all ease-in hover:text-primary-200"
+                                        className="text-white opacity-50
+                                         transition-all ease-in hover:text-white hover:opacity-100"
                                     >
                                         <span className="sr-only">
                                             {Social.Name}
@@ -52,7 +54,7 @@ export default function Footer(props) {
                                 <ul className="mt-6 space-y-4"></ul>
                             </div>
                             <div className="">
-                                <h3 className="font-display text-base font-semibold leading-6 text-white">
+                                <h3 className="font-display text-lg font-semibold leading-6 text-white">
                                     Our Services
                                 </h3>
                                 <ul className="mt-6 space-y-4">
@@ -74,7 +76,7 @@ export default function Footer(props) {
                         {/*Footer menu About Us*/}
                         <div className="md:grid md:grid-cols-2 md:gap-8">
                             <div className=" mt-6 md:mt-0">
-                                <h3 className="font-display text-base font-semibold leading-6 text-white">
+                                <h3 className="font-display text-lg font-semibold leading-6 text-white">
                                     Learn More
                                 </h3>
                                 <ul className="mt-6 space-y-4">
@@ -115,7 +117,7 @@ export default function Footer(props) {
                             {/*Footer menu Get in Touch*/}
                             <div className="md:grid md:grid-cols-1 md:gap-8">
                                 <div className="mt-10 md:mt-0">
-                                    <h3 className="font-display text-base font-semibold leading-6 text-white">
+                                    <h3 className="font-display text-lg font-semibold leading-6 text-white">
                                         Get in Touch
                                     </h3>
                                     <ul className="mt-6 space-y-4">
@@ -154,7 +156,7 @@ export default function Footer(props) {
                     {/*Nicejob Atom*/}
                     <a
                         href={brand_url}
-                        className="opacity-70 brightness-100 grayscale  filter transition-all ease-in hover:opacity-100"
+                        className="opacity-80 brightness-100 grayscale  filter transition-all ease-in hover:opacity-100"
                     >
                         <img
                             className="flex h-8 w-28"
@@ -165,15 +167,15 @@ export default function Footer(props) {
                     </a>
                     {/*Privacy*/}
                     <div className="flex items-center">
-                        <p className="py-2 text-xs leading-5 text-white opacity-70">
+                        <p className="py-2 text-xs leading-5 text-white opacity-80">
                             Copyright {new Date().getFullYear()}
                         </p>
-                        <p className="px-1 py-2 text-xs leading-5 text-neutral-400">
+                        <p className="px-1 py-2 text-xs leading-5 text-white">
                             |
                         </p>
                         <a
                             href="/privacy"
-                            className="text-white opacity-70 transition-all ease-in hover:opacity-100"
+                            className="text-white opacity-80 transition-all ease-in hover:opacity-100"
                         >
                             <p className="py-2 text-xs leading-5">Privacy</p>
                         </a>
@@ -181,7 +183,7 @@ export default function Footer(props) {
                         <div className=" ml-6 flex">
                             <a
                                 href="#top"
-                                className="text-white opacity-70 transition-all ease-in hover:opacity-100"
+                                className="text-white opacity-80 transition-all ease-in hover:opacity-100"
                                 aria-label="Back to Top"
                             >
                                 <svg

@@ -13,10 +13,10 @@ export default function Hero(props) {
         >
             <div className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:flex  lg:px-8">
                 <div className="mx-auto my-auto max-w-2xl sm:mx-0 lg:mx-0 lg:max-w-xl lg:flex-shrink-0">
-                    <h1 className="font-display text-4xl font-semibold tracking-tight text-neutral-800  md:text-5xl lg:text-6xl">
+                    <h1 className="font-display text-4xl font-semibold tracking-tight text-neutral-800 md:text-5xl lg:text-6xl">
                         {Header}
                     </h1>
-                    <p className="mt-6 text-lg leading-8 text-neutral-800">
+                    <p className="text-balance mt-6 text-lg leading-8 text-neutral-800">
                         {Body}
                     </p>
                     <div className="justify-left mt-10 flex items-center">

@@ -15,12 +15,12 @@ export default function HeroFullBG(props) {
 
                 <div className="absolute inset-0 -z-10 bg-gradient-to-b from-primary-950 via-neutral-900 to-neutral-950 opacity-60"></div>
 
-                <div className="mx-auto min-h-[300px] max-w-4xl px-6 py-32 sm:min-h-[400px] sm:py-48 lg:min-h-[500px] lg:px-0">
+                <div className="mx-auto min-h-[300px] max-w-6xl px-6 py-32 sm:min-h-[400px] sm:py-48 lg:min-h-[500px] lg:px-0">
                     <div className="text-center">
-                        <h1 className="font-display text-4xl font-semibold tracking-tight text-white md:text-5xl lg:max-w-4xl lg:text-6xl">
+                        <h1 className="font-display text-4xl font-semibold tracking-tight text-white md:text-5xl lg:max-w-6xl lg:text-6xl">
                             {Header}
                         </h1>
-                        <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-white">
+                        <p className="text-balance mx-auto mt-6 max-w-4xl text-lg leading-8 text-white">
                             {Body}
                         </p>
 

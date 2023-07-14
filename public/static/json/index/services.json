@@ -2,55 +2,55 @@
   "Services": [
     {
       "Tagline": "Pressure Washing",
-      "Header": "Revitalize your exteriors with our pressure washing!",
-      "Body": "Our pressure washing service is designed to remove the toughest dirt and grime from your property. With our state-of-the-art equipment and experienced professionals, we can make your exteriors look brand new. We guarantee your satisfaction at a reasonable and comfortable cost.",
+      "Header": "Revive your exteriors with our pressure washing!",
+      "Body": "Our pressure washing service is designed to remove stubborn dirt and grime, giving your property a fresh and clean appearance. We use high-quality equipment and techniques to ensure a thorough clean without causing any damage.",
       "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/d29a_a_man_using_a_hose_to_clean_a_sidewalk.webp",
-      "AltText": "Pressure washing service in Missouri City, TX",
-      "CTA": "Clean my exteriors!",
+      "AltText": "High pressure water cleaning service by Power Pressure Wash",
+      "CTA": "Revive my exteriors!",
       "Features": [
         {
           "Icon": "fa-solid fa-check",
-          "Title": "High-powered Cleaning",
-          "Description": "Our pressure washing service uses high-powered water jets to remove dirt, grime, and mildew from your property. It's effective and safe for a variety of surfaces."
+          "Title": "Thorough Cleaning",
+          "Description": "Our pressure washing service provides a thorough cleaning, removing all dirt and grime from your property's exterior."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "Experienced Professionals",
-          "Description": "Our team of experienced professionals is dedicated to providing you with the best service possible. We're meticulous, attentive to detail, and committed to your satisfaction."
+          "Title": "Safe Techniques",
+          "Description": "We use safe and effective pressure washing techniques to ensure no damage is caused to your property during the cleaning process."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "Satisfaction Guaranteed",
-          "Description": "We guarantee your satisfaction. If you're not completely satisfied with our pressure washing service, we'll make it right."
+          "Title": "High-Quality Equipment",
+          "Description": "Our team uses high-quality pressure washing equipment to provide a superior clean."
         }
       ],
       "Anchor": "pressure-washing"
     },
     {
-      "Tagline": "Soft Washing",
-      "Header": "Gently clean your property with our soft washing!",
-      "Body": "Our soft washing service is designed to clean your property gently and effectively. This method is perfect for delicate surfaces that may be damaged by high-pressure washing. We use eco-friendly cleaning solutions that are tough on dirt but gentle on your property.",
-      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/e663_a_truck_with_a_hose_on_the_back.webp",
-      "AltText": "Soft washing service in Missouri City, TX",
-      "CTA": "Gently clean my property!",
+      "Tagline": "Roof Cleaning",
+      "Header": "Uncover your roof's pristine beauty!",
+      "Body": "Our roof cleaning service is designed to remove all forms of dirt, moss, and algae, restoring your roof's original color and beauty. We use safe and effective methods to ensure no damage is caused to your roof.",
+      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/4afb_a_roof_with_a_metal_roofing_system.webp",
+      "AltText": "Roof cleaning service by Power Pressure Wash",
+      "CTA": "Reveal my roof's beauty!",
       "Features": [
         {
           "Icon": "fa-solid fa-check",
-          "Title": "Gentle Cleaning",
-          "Description": "Our soft washing service uses low-pressure water and eco-friendly cleaning solutions to gently remove dirt, grime, and mildew from your property. It's perfect for delicate surfaces."
+          "Title": "Moss and Algae Removal",
+          "Description": "Our roof cleaning service effectively removes moss, algae, and other forms of dirt, restoring your roof's original color and beauty."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "Eco-friendly Solutions",
-          "Description": "We use eco-friendly cleaning solutions that are tough on dirt but gentle on your property and the environment."
+          "Title": "Safe Cleaning Methods",
+          "Description": "We use safe and effective roof cleaning methods to ensure no damage is caused to your roof during the cleaning process."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "Satisfaction Guaranteed",
-          "Description": "We guarantee your satisfaction. If you're not completely satisfied with our soft washing service, we'll make it right."
+          "Title": "Experienced Team",
+          "Description": "Our team of experienced professionals ensure a thorough and effective roof cleaning service."
         }
       ],
-      "Anchor": "soft-washing"
+      "Anchor": "roof-cleaning"
     }
   ]
 }

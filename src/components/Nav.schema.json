@@ -1,10 +1,4 @@
 {
-    "CTA": {
-        "value": "Get quote",
-        "description": "CTA button text.",
-        "AI": true,
-        "instructions": "Use the company's common call to action with 2 simple words that convay the main action. \n Example: \n Get quote \n Get estimate \n Book now \n Schedule now "
-    },
     "Services": {
         "value": [
             {
@@ -33,5 +27,17 @@
                 "Anchor": "service1"
             }
         ]
+    },
+    "CTA": {
+        "value": "Get quote",
+        "description": "CTA button text.",
+        "AI": true,
+        "instructions": "Use the company's common call to action with 2 simple words that convay the main action. \n Example: \n Get quote \n Get estimate \n Book now \n Schedule now "
+    },
+    "Phone": {
+        "value": "(650) 253-0000",
+        "description": "Company Phone Number",
+        "AI": true,
+        "instructions": "Company Phone Number displayed in this format (000) 000-0000"
     }
 }

@@ -20,10 +20,6 @@
       "Anchor": "pressure-washing"
     },
     {
-      "Name": "Soft Washing",
-      "Anchor": "soft-washing"
-    },
-    {
       "Name": "Roof Cleaning",
       "Anchor": "roof-cleaning"
     },
@@ -38,6 +34,10 @@
     {
       "Name": "Parking Lot Striping",
       "Anchor": "parking-lot-striping"
+    },
+    {
+      "Name": "Soft Washing",
+      "Anchor": "soft-washing"
     }
   ]
 }

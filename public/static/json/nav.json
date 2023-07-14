@@ -1,13 +1,8 @@
 {
-  "CTA": "Book now",
   "Services": [
     {
       "Name": "Pressure Washing",
       "Anchor": "pressure-washing"
-    },
-    {
-      "Name": "Soft Washing",
-      "Anchor": "soft-washing"
     },
     {
       "Name": "Roof Cleaning",
@@ -25,5 +20,7 @@
       "Name": "Parking Lot Striping",
       "Anchor": "parking-lot-striping"
     }
-  ]
+  ],
+  "CTA": "Book Now",
+  "Phone": "(832) 610-2225"
 }

@@ -1,21 +1,21 @@
 {
-  "Header": "Revitalize your space with our top-notch pressure washing services!",
-  "Body": "Discover the power of our pressure washing services. We're dedicated to providing meticulous service and ensuring your complete satisfaction. Make your property shine with our professional and affordable services.",
+  "Header": "Experience the power of professional pressure washing!",
+  "Body": "Unleash the potential of your property with our premium pressure washing services. Our dedicated team not only cleans but revitalizes your space, offering a transformation you can see and feel. Enjoy the convenience of our flexible scheduling and the assurance of our satisfaction guarantee.",
   "Features": [
     {
       "Icon": "fa-solid fa-award",
-      "Title": "Years of Expertise",
-      "Description": "With 14 years in the business, we bring a wealth of experience to every job."
+      "Title": "Proven Expertise",
+      "Description": "Leverage our 14 years of experience for a service that consistently meets and exceeds expectations."
     },
     {
       "Icon": "fa-solid fa-badge-check",
-      "Title": "Customer Focused",
-      "Description": "Your satisfaction is our priority, and we strive to exceed your expectations."
+      "Title": "Customer-Centric",
+      "Description": "We put you first, ensuring your satisfaction with our meticulous attention to detail and top-notch customer service."
     },
     {
       "Icon": "fa-solid fa-tag",
-      "Title": "Affordable Services",
-      "Description": "Experience top-quality pressure washing services at a price that suits you."
+      "Title": "Budget-Friendly",
+      "Description": "Experience superior service without breaking the bank, as we offer quality at a comfortable cost."
     }
   ]
 }

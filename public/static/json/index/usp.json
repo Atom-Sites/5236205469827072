@@ -1,21 +1,21 @@
 {
-  "Header": "Experience exceptional pressure washing services and customer satisfaction!",
-  "Body": "Discover the ultimate cleaning experience with our pressure washing services! With the owner present at every job, we ensure excellent customer service and your complete satisfaction. Our 14 years of experience and certification from the Better Business Bureau guarantee top-notch service and quality.",
+  "Header": "Transform your space with our top-tier pressure washing services!",
+  "Body": "Experience the difference with our comprehensive pressure washing services. Our dedicated team of professionals is committed to delivering outstanding results tailored to your unique needs. Revel in a clean and revitalized space with our diverse cleaning services.",
   "Features": [
     {
       "Icon": "fa-solid fa-award",
-      "Title": "Experienced Professionals",
-      "Description": "Trust in our 14 years of experience in the pressure washing industry for superior service."
-    },
-    {
-      "Icon": "fa-solid fa-user-check",
-      "Title": "Exceptional Customer Service",
-      "Description": "Experience personalized service with the owner present at every job, ensuring your complete satisfaction."
+      "Title": "Seasoned Professionals",
+      "Description": "With over a decade of experience, our team is equipped to provide high-quality cleaning services."
     },
     {
       "Icon": "fa-solid fa-badge-check",
-      "Title": "Certified Quality",
-      "Description": "Feel confident in our services, certified by the Better Business Bureau, guaranteeing professionalism and quality."
+      "Title": "Guaranteed Satisfaction",
+      "Description": "As a Better Business Bureau certified company, we guarantee your satisfaction with our services."
+    },
+    {
+      "Icon": "fa-solid fa-tag",
+      "Title": "Wide Range of Services",
+      "Description": "We offer a variety of services, from pressure washing to gutter cleaning, to meet all your cleaning needs."
     }
   ]
 }

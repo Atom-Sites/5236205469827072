@@ -4,26 +4,26 @@
       "Service": "Pressure Washing",
       "Anchor": "pressure-washing",
       "Header": "Revitalize your property with our pressure washing!",
-      "Body": "Our pressure washing service is designed to remove the toughest dirt and grime from your property. We use high-quality equipment and environmentally friendly cleaning solutions to ensure a deep clean that leaves your property looking its best. Whether it's your driveway, patio, or exterior walls, our pressure washing service can make them look like new again.",
+      "Body": "Experience the transformative power of our pressure washing service. Watch as years of dirt, grime, and stains are washed away, revealing the true beauty of your property. You'll be amazed at the difference a professional pressure wash can make.",
       "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/d29a_a_man_using_a_hose_to_clean_a_sidewalk.webp",
-      "AltText": "Pressure washing service in action in Southwest Houston"
+      "AltText": "Pressure washing service revealing the true beauty of a property"
     },
     {
       "Service": "Soft Washing",
       "Anchor": "soft-washing",
-      "Header": "Gentle yet effective cleaning with our soft washing!",
-      "Body": "Our soft washing service is perfect for those delicate areas that need a gentle touch. We use low-pressure water and special cleaning solutions to remove dirt, mold, algae, and other contaminants without damaging your property. It's the perfect solution for cleaning your roof, siding, or other delicate surfaces.",
-      "ImageUrl": "https://image.shutterstock.com/display_pic_with_logo/300785485/1865380804/stock-photo-close-up-of-hands-of-dark-skinned-car-wash-service-worker-in-black-protective-gloves-cleaning-car-1865380804.jpg",
-      "AltText": "Soft washing service in action in Southwest Houston"
+      "Header": "Gentle and effective cleaning with our soft washing!",
+      "Body": "Discover the gentle touch of our soft washing service. Using low-pressure water and special cleaning solutions, we can clean delicate surfaces without causing any damage. You'll love the fresh, clean look of your property after our soft washing service.",
+      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/68c9_a_driveway_with_a_tree_and_a_house_in_the_background.webp",
+      "AltText": "Soft washing service giving a property a fresh, clean look"
     },
     {
       "Service": "Roof Cleaning",
       "Anchor": "roof-cleaning",
-      "Header": "Restore your roof's beauty with our roof cleaning service!",
-      "Body": "Our roof cleaning service is designed to remove all types of roof stains and discolorations. We use safe and effective cleaning methods that not only clean your roof but also help to extend its life. With our service, you can restore your roof's beauty and protect it from future damage.",
+      "Header": "Bring back the beauty of your roof with our roof cleaning!",
+      "Body": "Uncover the hidden beauty of your roof with our roof cleaning service. We'll remove all the dirt, moss, and algae, making your roof look as good as new. Plus, a clean roof lasts longer, saving you money in the long run.",
       "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/4afb_a_roof_with_a_metal_roofing_system.webp",
-      "AltText": "Roof cleaning service in action in Southwest Houston"
+      "AltText": "Roof cleaning service extending the lifespan of a roof"
     }
   ],
-  "CTA": "Revitalize your property!"
+  "CTA": "Clean my property!"
 }

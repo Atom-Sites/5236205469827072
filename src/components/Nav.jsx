@@ -7,7 +7,7 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import { Fragment, useState } from 'react'
 
 export default function Nav(props) {
-    const { AltText, Services, phone, company, CTA } = props
+    const { Services, Phone, company, CTA } = props
     const { logoUrl, company_name } = company
 
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
@@ -39,7 +39,7 @@ export default function Nav(props) {
                     <div className="ml-2 flex items-center">
                         <a
                             title="Call us!"
-                            href={`tel: ${phone}`}
+                            href={`tel: ${Phone}`}
                             className="font-heading rounded-2xl bg-secondary-700 px-3 py-3.5 text-base font-bold text-white shadow-sm transition-all ease-in hover:bg-secondary-600 focus-visible:outline focus-visible:outline-0  focus-visible:outline-offset-2 focus-visible:outline-transparent"
                             aria-label="Call us"
                         >

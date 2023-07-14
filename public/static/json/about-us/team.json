@@ -1,10 +1,10 @@
 {
-  "Header": "Meet Our Team",
-  "Body": "At Power Pressure Wash, we pride ourselves on having a team that is professional, experienced, and dedicated to providing excellent customer service. Our team's meticulous attention to detail sets us apart from the competition.",
+  "Header": "Meet the Team at Power Pressure Wash",
+  "Body": "At Power Pressure Wash, we're a dedicated team committed to providing excellent customer service and meticulous attention to detail. We're led by our owner-operator, who is present on every job, ensuring your satisfaction at a reasonable and comfortable cost.",
   "People": [
     {
       "Person": {
-        "ImageURL": "https://image.shutterstock.com/display_pic_with_logo/301539971/317805551/stock-photo-business-people-and-office-concept-happy-smiling-businessman-in-dark-grey-suit-317805551.jpg",
+        "ImageURL": "[ IMAGE: Roosevelt Lee, owner-operator of Power Pressure Wash ]",
         "Name": "Roosevelt Lee",
         "Role": "Owner-Operator"
       }

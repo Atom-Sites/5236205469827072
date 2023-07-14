@@ -1,27 +1,27 @@
 {
-  "Tagline": "Effortless Cleaning",
-  "Header": "Unleash the power of easy pressure washing!",
-  "Body": "Tired of dealing with dirt and grime? We make it easy. Our seamless booking process and efficient service delivery ensure a hassle-free experience. Plus, our unique pressure washing techniques guarantee a spotless finish, every time.",
+  "Tagline": "Simplified Cleaning",
+  "Header": "Experience the ease of our pressure washing process!",
+  "Body": "Finding a reliable pressure washing service can be daunting, but we've made the process simple for you. Our easy scheduling and owner's presence on every job ensure your needs are met with utmost attention to detail. Plus, our specialized cleaning techniques guarantee a job well done.",
   "Steps": [
     {
-      "Title": "Schedule a service",
-      "Description": "Book an appointment that suits your schedule, either online or by phone.",
-      "Icon": "fa-solid fa-calendar-alt"
+      "Title": "Book Your Service",
+      "Description": "Schedule your cleaning service effortlessly online or over the phone.",
+      "Icon": "fa-solid fa-calendar-check"
     },
     {
-      "Title": "Get confirmation",
-      "Description": "Receive a detailed confirmation message about your upcoming service.",
-      "Icon": "fa-solid fa-envelope"
+      "Title": "We Handle the Rest",
+      "Description": "Our owner will personally oversee your job, ensuring top-notch service.",
+      "Icon": "fa-solid fa-user-tie"
     },
     {
-      "Title": "Enjoy the service",
-      "Description": "Our expert team will efficiently pressure wash your space to perfection.",
-      "Icon": "fa-solid fa-check"
+      "Title": "Enjoy the Results",
+      "Description": "Relish in the cleanliness and beauty of your freshly washed property.",
+      "Icon": "fa-solid fa-star"
     },
     {
-      "Title": "Relish the cleanliness",
-      "Description": "Experience the joy of a spotlessly clean and fresh area.",
-      "Icon": "fa-solid fa-smile"
+      "Title": "Satisfaction Guaranteed",
+      "Description": "Your satisfaction is our top priority, and we strive to exceed your expectations.",
+      "Icon": "fa-solid fa-heart"
     }
   ]
 }

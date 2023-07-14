@@ -1,10 +1,10 @@
 {
-  "Header": "Meet the Team",
-  "Body": "Our team at Power Pressure Wash is dedicated to providing excellent customer service and meticulous attention to detail. With 14 years of experience in the industry, we guarantee your satisfaction at a reasonable and comfortable cost.",
+  "Header": "Meet the Power Pressure Wash Team",
+  "Body": "Our team, led by Roosevelt Lee, is dedicated to providing top-notch pressure washing services. With over 14 years in business, we have the expertise to make your home or business shine. We guarantee your satisfaction at a reasonable and comfortable cost.",
   "People": [
     {
       "Person": {
-        "ImageURL": "https://image.shutterstock.com/display_pic_with_logo/301539971/1940410141/stock-photo-smiling-indian-business-man-working-on-laptop-at-home-office-young-indian-student-or-remote-1940410141.jpg",
+        "ImageURL": "images/placeholder.svg",
         "Name": "Roosevelt Lee",
         "Role": "Owner-Operator"
       }

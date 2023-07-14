@@ -1,108 +1,82 @@
 {
   "Services": [
     {
-      "Tagline": "service1",
-      "Header": "header",
-      "Body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "ImageUrl": "/images/placeholder.svg",
-      "AltText": "image Alt Text",
-      "CTA": "lorem ipsum",
+      "Tagline": "Pressure Washing",
+      "Header": "Revive your property's exterior!",
+      "Body": "Our pressure washing service is designed to remove the toughest dirt and grime from your property. Our team uses high-quality equipment to ensure a thorough and effective clean. We take pride in our attention to detail and commitment to customer satisfaction.",
+      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/d29a_a_man_using_a_hose_to_clean_a_sidewalk.webp",
+      "AltText": "Pressure washing service in action",
+      "CTA": "Clean my property!",
       "Features": [
         {
           "Icon": "fa-solid fa-check",
-          "Title": "service 1 feature 1 name",
-          "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+          "Title": "High-quality Equipment",
+          "Description": "We use professional-grade pressure washing equipment to ensure an effective and thorough clean."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "service 1 feature 2 name",
-          "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
+          "Title": "Attention to Detail",
+          "Description": "Our team pays meticulous attention to detail to ensure every corner of your property is cleaned."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "service 1 feature 3 name",
-          "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
+          "Title": "Customer Satisfaction",
+          "Description": "We prioritize customer satisfaction and guarantee you'll be pleased with our services."
         }
       ],
-      "Anchor": "service-1"
+      "Anchor": "pressure-washing"
     },
     {
-      "Tagline": "service2",
-      "Header": "header",
-      "Body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "ImageUrl": "/images/placeholder.svg",
-      "AltText": "image Alt Text",
-      "CTA": "lorem ipsum",
+      "Tagline": "Roof Cleaning",
+      "Header": "Unveil your roof's true beauty!",
+      "Body": "Our roof cleaning service is designed to remove dirt, grime, and moss from your roof, improving its appearance and longevity. Our team uses safe and effective cleaning methods to ensure your roof is cleaned without causing any damage.",
+      "ImageUrl": "https://storage.googleapis.com/image-service-images/5236205469827072/4afb_a_roof_with_a_metal_roofing_system.webp",
+      "AltText": "Roof cleaning service in action",
+      "CTA": "Clean my roof!",
       "Features": [
         {
           "Icon": "fa-solid fa-check",
-          "Title": "service 2 feature 1 name",
-          "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+          "Title": "Safe Cleaning Methods",
+          "Description": "We use safe and effective cleaning methods to ensure your roof is cleaned without causing any damage."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "service 2 feature 2 name",
-          "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
+          "Title": "Improved Longevity",
+          "Description": "Regular roof cleaning can improve the longevity of your roof, preventing costly repairs in the future."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "service 2 feature 3 name",
-          "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
+          "Title": "Enhanced Appearance",
+          "Description": "Our roof cleaning service can enhance the appearance of your home, improving curb appeal."
         }
       ],
-      "Anchor": "service-2"
+      "Anchor": "roof-cleaning"
     },
     {
-      "Tagline": "service3",
-      "Header": "header",
-      "Body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "ImageUrl": "/images/placeholder.svg",
-      "AltText": "image Alt Text",
-      "CTA": "lorem ipsum",
+      "Tagline": "Gutter Cleaning",
+      "Header": "Ensure your gutters are free-flowing!",
+      "Body": "Our gutter cleaning service is designed to remove debris and blockages from your gutters, ensuring they function effectively. This can prevent water damage to your property and prolong the lifespan of your gutters.",
+      "ImageUrl": "https://image.shutterstock.com/display_pic_with_logo/301539971/162672485/stock-photo-man-standing-on-the-ladder-and-cleaning-the-roof-from-autumn-leaves-162672485.jpg",
+      "AltText": "Gutter cleaning service in action",
+      "CTA": "Clean my gutters!",
       "Features": [
         {
           "Icon": "fa-solid fa-check",
-          "Title": "service 3 feature 1 name",
-          "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+          "Title": "Debris Removal",
+          "Description": "We remove all debris and blockages from your gutters to ensure they function effectively."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "service 3 feature 2 name",
-          "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
+          "Title": "Prevent Water Damage",
+          "Description": "Regular gutter cleaning can prevent water damage to your property, saving you costly repairs in the future."
         },
         {
           "Icon": "fa-solid fa-check",
-          "Title": "service 3 feature 3 name",
-          "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
+          "Title": "Prolong Lifespan",
+          "Description": "Our gutter cleaning service can prolong the lifespan of your gutters, saving you the cost of premature replacement."
         }
       ],
-      "Anchor": "service-3"
-    },
-    {
-      "Tagline": "service4",
-      "Header": "header",
-      "Body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "ImageUrl": "/images/placeholder.svg",
-      "AltText": "image Alt Text",
-      "CTA": "lorem ipsum",
-      "Features": [
-        {
-          "Icon": "fa-solid fa-check",
-          "Title": "service 4 feature 1 name",
-          "Description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
-        },
-        {
-          "Icon": "fa-solid fa-check",
-          "Title": "service 4 feature 2 name",
-          "Description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
-        },
-        {
-          "Icon": "fa-solid fa-check",
-          "Title": "service 4 feature 3 name",
-          "Description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
-        }
-      ],
-      "Anchor": "service-4"
+      "Anchor": "gutter-cleaning"
     }
   ]
 }

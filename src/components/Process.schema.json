@@ -42,22 +42,26 @@
         ],
         "description": "Details for a list of 3 steps to a sucessful process section.",
         "AI": true,
-        "instructions": "Write exactly three steps in the provided format. Fourth block should be the result. The 'name' should be small, 2-3 word title features. The description should be one-sentence description of the (first, second, or third) step using the client's perspective and second-person pronoun. Do not repeat the same keyword twice in a paragraph. Write concise sentences and avoid wordiness or vagueness. Fix all grammar. Write in an active voice. In a clause written in the active voice, the subject of the clause performs the action. (I saw Mom.) In a clause written in the passive voice, the action is performed upon the subject of the clause. (Mom was seen by me.) The icon should be a Font Awesome icon class name (fa-solid fa-shield). Do not repeat icons.",
+        "instructions": "Write exactly three steps in the provided format. Fourth block should be the result. The 'name' should be small, 2-3 word title features. The description should be one-sentence description of the (first, second, or third) step using the client's perspective and second-person pronoun. Do not repeat the same keyword twice in a paragraph. Write concise sentences and avoid wordiness or vagueness. Fix all grammar. Write in an active voice. In a clause written in the active voice, the subject of the clause performs the action. (I saw Mom.) In a clause written in the passive voice, the action is performed upon the subject of the clause. (Mom was seen by me.) For the first 3 icons use fa-solid fa-arrow-right. For the fourth icon use fa-solid fa-check.",
         "example": [
             {
                 "Title": "Schedule online or by phone",
+                "Icon": "fa-solid fa-arrow-right",
                 "Description": "Our team is ready to assist you and will provide you with an appointment that fits your specific needs"
             },
             {
                 "Title": "Get a SMS reminder",
+                "Icon": "fa-solid fa-arrow-right",
                 "Description": "A day prior to delivering the service, you'll get a friendly reminder."
             },
             {
                 "Title": "Step 3",
+                "Icon": "fa-solid fa-arrow-right",
                 "Description": "Our cleaning techs will come and clean your windows."
             },
             {
                 "Title": "Sparkling results!",
+                "Icon": "fa-solid fa-check",
                 "Description": "Enjoy a nice clear view!"
             }
         ]

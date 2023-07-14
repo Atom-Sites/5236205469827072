@@ -1,27 +1,27 @@
 {
   "Tagline": "Effortless Cleaning",
-  "Header": "Experience hassle-free pressure washing and cleaning services!",
-  "Body": "Struggling to find a reliable cleaning service? We've got you covered. Our easy scheduling process, combined with our professional and efficient service, ensures you get the results you want without any extra stress. Plus, our owner is present on every job, providing that personal touch that sets us apart from the competition.",
+  "Header": "Experience hassle-free pressure washing services!",
+  "Body": "Struggling to find a reliable pressure washing service? We've got you covered. Our easy-to-use booking system, whether online or by phone, eliminates the stress of scheduling. With our skilled team at your service, expect nothing less than perfection. We guarantee your satisfaction at a comfortable cost, setting us apart from the competition.",
   "Steps": [
     {
       "Title": "Book Your Service",
-      "Description": "Schedule your cleaning service online or over the phone, at a time that suits you best.",
-      "Icon": "fa-solid fa-phone"
+      "Icon": "fa-solid fa-arrow-right",
+      "Description": "Schedule your pressure washing service online or by phone at your convenience."
     },
     {
-      "Title": "Professional Cleaning",
-      "Description": "Our skilled team, led by the owner, will provide top-notch pressure washing and cleaning services.",
-      "Icon": "fa-solid fa-broom"
+      "Title": "Receive Confirmation",
+      "Icon": "fa-solid fa-arrow-right",
+      "Description": "Get a confirmation message for your scheduled service and any necessary reminders."
     },
     {
-      "Title": "Quality Assurance",
-      "Description": "We ensure every job is done to perfection, guaranteeing your satisfaction at a reasonable cost.",
-      "Icon": "fa-solid fa-thumbs-up"
+      "Title": "We Do the Work",
+      "Icon": "fa-solid fa-arrow-right",
+      "Description": "Our professional team arrives and takes care of your cleaning needs efficiently."
     },
     {
-      "Title": "Sparkling Results!",
-      "Description": "Enjoy a cleaner, fresher home or business premises!",
-      "Icon": "fa-solid fa-smile-beam"
+      "Title": "Enjoy the Results",
+      "Icon": "fa-solid fa-check",
+      "Description": "Relax and enjoy your sparkling clean space!"
     }
   ]
 }

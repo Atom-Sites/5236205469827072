@@ -1,21 +1,21 @@
 {
-  "Header": "Transform your surfaces with our top-notch pressure washing services!",
-  "Body": "Discover the difference our professional pressure washing services can make! Our dedicated team is here to help you enjoy a clean, fresh, and revitalized space tailored to your needs. With our commitment to customer satisfaction and superior service, we stand out from the competition.",
+  "Header": "Experience exceptional pressure washing services tailored to your needs!",
+  "Body": "Discover the ultimate in pressure washing with our top-notch services! Our team of highly trained professionals is here to deliver a spotless and healthy environment tailored to your specific needs. Enjoy our meticulous attention to detail and exceptional customer service at a reasonable and comfortable cost.",
   "Features": [
     {
       "Icon": "fa-solid fa-award",
-      "Title": "14 Years of Expertise",
-      "Description": "Rely on our extensive experience and commitment to quality for exceptional results."
+      "Title": "14 Years of Experience",
+      "Description": "Trust in our proven reliability and detail-oriented approach, backed by over a decade of experience in the industry."
     },
     {
       "Icon": "fa-solid fa-badge-check",
-      "Title": "Customer-Centric",
-      "Description": "We prioritize your satisfaction, striving to exceed your expectations with every job."
+      "Title": "Certified Professional",
+      "Description": "Rest easy knowing we are a Better Business Bureau certified business committed to customer satisfaction."
     },
     {
       "Icon": "fa-solid fa-tag",
-      "Title": "Affordable Rates",
-      "Description": "Get top-quality service at a comfortable cost, ensuring great value for your investment."
+      "Title": "Affordable Services",
+      "Description": "Enjoy top-notch pressure washing services without breaking the bank, ensuring your satisfaction at a comfortable cost."
     }
   ]
 }
